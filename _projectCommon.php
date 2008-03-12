@@ -2,7 +2,7 @@
 	# Set the theme for your project's web pages.
 	# See the Committer Tools "How Do I" for list of themes
 	# https://dev.eclipse.org/committers/ 
-	$theme = "Miasma";
+	$theme = "Lazarus";
 
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	
@@ -13,6 +13,7 @@
   body { font-size: small; }
   #midcolumn { margin-top: 5px; }
 </STYLE>
+
 <div id="branding">
 <center>
   <h1 style="font-size:+2">Memory Analyzer (MAT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
@@ -20,6 +21,7 @@
 </div>
 
 EOBRANDING;
+
 	$Menu->setProjectBranding($branding);
 	
 	$Nav->addCustomNav( "About", "/projects/project_summary.php?projectid=technology.mat", "", 1);
