@@ -1,0 +1,21 @@
+<project>
+  <short-name>MAT</short-name>
+  <bugzilla>
+    <product name="MAT"/>
+  </bugzilla>
+
+  <description url="/mat/index.php"
+     paragraph-url="/mat/project-info/project-page-paragraph.html"/>
+
+  <getting-started url="/mat/start/"/>
+
+  <mailing-lists>
+    <list name="mat-dev"/>
+  </mailing-lists>
+  
+  <newsgroups>
+	<newsgroup name="eclipse.technology.mat"/>
+  </newsgroups>
+  
+  <project-plan url="/mat/plan.php"/>
+</project>
