@@ -15,7 +15,8 @@
 		</div>
  		<div class="sideitem">
 			<h6>JavaOne '08</h6>
-			<div align="left" style="padding:5px">Meet us at the <a href="http://java.sun.com/javaone/sf/">JavaOne 2008</a>!
+			<div align="left" style="padding:5px;  background-color: #fcae24;">Meet us at
+			the <a href="http://java.sun.com/javaone/sf/">JavaOne 2008</a>!
 			Visit our technical session (TS-5729) on Friday 1:30pm!</div>
 		</div>
  		<div class="sideitem">

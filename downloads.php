@@ -30,7 +30,7 @@
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
                     
-                    <a title="Win32 RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip"><img border=0 src="/home/icon-save.gif"></a>
+                    <a title="Win32 RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip">Windows (x86) (34,7 MB)</a><br/>
                     Ask us for more platforms, if you are interested! 
                 </li>                                

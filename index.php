@@ -13,7 +13,7 @@
 	<div id="midcolumn">
 		<a href="/mat/about/screenshots.php"><img
 		    align="left" src="/mat/home/mat_thumb.png" border="0" alt="Memory Analyzer Screenshot"
-		    style="padding: 10px, 20px, 30px, 10px;"/></a>
+		    style="padding: 10px 20px 30px 10px;"/></a>
 		
 		<p>The Eclipse Memory Analyzer is a fast and feature-rich <strong>Java heap analyzer</strong> that helps you
 		find memory leaks and reduce memory consumption.</p>
