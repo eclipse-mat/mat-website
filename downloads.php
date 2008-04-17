@@ -11,23 +11,27 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-		<p>The Memory Analyzer comes with 2 <strong>features</strong>: One containing the heap analysis and reports,
-		and the other containing pie charts. The latter requires the <a href="/birt">BIRT Chart Engine</a> to be present.</p>
+		<p>Download the Memory Analyzer as <strong>feature</strong> using the Update Manager: One feature contains the
+		heap analysis and reports, and the other contains pie charts.
+		The latter requires the <a href="/birt">BIRT Chart Engine</a>.</p>
 		
 		<p>The <strong>stand-alone</strong> version is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
 
 		<div class="homeitem3col">	
-			<h3>Latest Version (Incubation)</h3>
+			<h3>Latest Version 0.7 (Incubation)</h3>
             <ul>
                 <li>
                     <b>Version</b>: 0.7.0.20080416  |  <b>Date</b>: 16 April 2008  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
-                    <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a></li>                
+                    <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
+                    (4,2 MB)</li>                
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
-                    <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip">Windows (x86) (34,7 MB)</a><br/>
+                    
+                    <a title="Win32 RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip"><img border=0 src="/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-0.7.0.20080416-win32.win32.x86.zip">Windows (x86) (34,7 MB)</a><br/>
                     Ask us for more platforms, if you are interested! 
                 </li>                                
             </ul>

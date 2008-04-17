@@ -6,7 +6,7 @@
 
 	$branding = <<<EOBRANDING
 <div id="branding">
-<h1>Memory Analyzer (MAT)</h1>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memory Analyzer (MAT)</h1>
 </div>
 EOBRANDING;
 	$Menu->setProjectBranding($branding);
@@ -15,10 +15,10 @@ EOBRANDING;
     
     function add2users() {
        global $Nav;
-	$Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 1);
-#	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Wiki", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 1);
-#	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Newsgroup", "/newsportal/thread.php?group=eclipse.technology.memory-analyzer", "_self", 1);
-    }   
+       $Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 2);
+       $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
+    }
+       
     function add2contributors() {
        global $Nav;
 #       $Nav->addCustomNav(...);
