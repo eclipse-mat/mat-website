@@ -30,6 +30,8 @@
 			<li><a href="/mat/downloads.php">Download</a></li>
 			<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
 		</ul>
+		
+		<br/
 
 		<div class="homeitem3col">
 			<h3>Upcoming Events</h3>
