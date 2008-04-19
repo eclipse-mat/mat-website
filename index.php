@@ -29,7 +29,30 @@
 		<ul>
 			<li><a href="/mat/downloads.php">Download</a></li>
 			<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
-		</ul>			
+		</ul>
+
+		<div class="homeitem3col">
+			<h3>Upcoming Events</h3>
+			<ul class="midlist">
+				<li><a href="http://jax.de/">JAX</a> (Wiesbaden, Germany)<blockquote>
+				<br/>
+				<img src="http://entwickler.com/zonen/sus/konferenzen/pspic/picture/36/jax08_thum4755152a89f68.gif" border="0"/><br/>
+				
+				<strong>Automatisierte Speicheranalyse: Auf der Jagd nach den Speicherfressern</strong><br/>
+				Erwin Margewitsch<br/>
+				Wednesday, 23 April 2008, 10:00-11:00
+				</blockquote></li>
+
+				<li><a href="http://java.sun.com/javaone/sf/">JavaOne</a> (San Francisco, California, USA)<blockquote>
+				<br/>
+				<img src="/mat/home/javaone.gif" border="0"/><br/>
+				
+				<strong>Automated Heap Dump Analysis for Developers, Testers, and Support Employees</strong><br/>
+				Krum Tsvetkov, Andreas Buchen<br/>
+				Friday, 9 May 2008, 11:30-12:30
+				</blockquote></li>
+			</ul>
+		</div> 
 		
 	</div>
 
