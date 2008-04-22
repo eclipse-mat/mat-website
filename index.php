@@ -44,12 +44,27 @@
 				Wednesday, 23 April 2008, 10:00-11:00
 				</blockquote></li>
 
+				<li><a href="https://jug-ka.dev.java.net/">JUG Karlsruhe</a> (Karlsruhe, Germany)<blockquote>
+				<br/>
+				<strong>Eclipse Memory Analyzer</strong><br/>
+				Markus Kohler<br/>
+				Wednesday, 7 May 2008, 19:00
+				</blockquote></li>
+
 				<li><a href="http://java.sun.com/javaone/sf/">JavaOne</a> (San Francisco, California, USA)<blockquote>
 				<img src="/mat/home/javaone.gif" border="0"/><br/><br/>
 				
 				<strong>Automated Heap Dump Analysis for Developers, Testers, and Support Employees</strong><br/>
 				Krum Tsvetkov, Andreas Buchen<br/>
 				Friday, 9 May 2008, 11:30-12:30
+				</blockquote></li>
+
+				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a> (Stuttgart, Germany)<blockquote>
+				<img src="http://www.java-forum-stuttgart.de/abb/logo.jpg" border="0" width="300" height="59"/><br/><br/>
+				
+				<strong>Memory Analysis in a Nutshell</strong><br/>
+				Elena Nayashkova<br/>
+				Thursday, 3 July 2008, 11:10-11:55
 				</blockquote></li>
 			</ul>
 		</div> 
