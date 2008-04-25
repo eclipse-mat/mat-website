@@ -45,11 +45,11 @@
 				</blockquote></li>
 			
 				<li><a href="http://www.andrena.de/Entwicklertag/2008/">Entwicklertag</a> (Karlsruhe, Germany)<blockquote>
-				<img src="http://www.andrena.de/Entwicklertag/common-gfx/header.jpg" border="0"/><br/><br/>
+				<img src="http://www.andrena.de/Entwicklertag/common-gfx/header.jpg" border="0" width="300" height="59"/><br/><br/>
 				
 				<strong>Automatisierte Speicheranalyse: Auf der Jagd nach den Speicherfressern</strong><br/>
 				Erwin Margewitsch<br/>
-				Wednesday, 7 Mai 2008, 15:30-16:15
+				Wednesday, 7 May 2008, 15:30-16:15
 				</blockquote></li>
 
 				<li><a href="https://jug-ka.dev.java.net/">JUG Karlsruhe</a> (Karlsruhe, Germany)<blockquote>
