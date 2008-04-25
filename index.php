@@ -36,12 +36,20 @@
 		<div class="homeitem3col">
 			<h3>Upcoming Events</h3>
 			<ul class="midlist">
-				<li><a href="http://jax.de/">JAX</a> (Wiesbaden, Germany)<blockquote>
-				<img src="http://entwickler.com/zonen/sus/konferenzen/pspic/picture/36/jax08_thum4755152a89f68.gif" border="0"/><br/><br/>
+				<li><a href="http://java.sun.com/javaone/sf/">JavaOne</a> (San Francisco, California, USA)<blockquote>
+				<img src="/mat/home/javaone.gif" border="0"/><br/><br/>
+				
+				<strong>Automated Heap Dump Analysis for Developers, Testers, and Support Employees</strong><br/>
+				Krum Tsvetkov, Andreas Buchen<br/>
+				Friday, 9 May 2008, 11:30-12:30
+				</blockquote></li>
+			
+				<li><a href="http://www.andrena.de/Entwicklertag/2008/">Entwicklertag</a> (Karlsruhe, Germany)<blockquote>
+				<img src="http://www.andrena.de/Entwicklertag/common-gfx/header.jpg" border="0"/><br/><br/>
 				
 				<strong>Automatisierte Speicheranalyse: Auf der Jagd nach den Speicherfressern</strong><br/>
 				Erwin Margewitsch<br/>
-				Wednesday, 23 April 2008, 10:00-11:00
+				Wednesday, 7 Mai 2008, 15:30-16:15
 				</blockquote></li>
 
 				<li><a href="https://jug-ka.dev.java.net/">JUG Karlsruhe</a> (Karlsruhe, Germany)<blockquote>
@@ -49,14 +57,6 @@
 				<strong>Eclipse Memory Analyzer</strong><br/>
 				Markus Kohler<br/>
 				Wednesday, 7 May 2008, 19:00
-				</blockquote></li>
-
-				<li><a href="http://java.sun.com/javaone/sf/">JavaOne</a> (San Francisco, California, USA)<blockquote>
-				<img src="/mat/home/javaone.gif" border="0"/><br/><br/>
-				
-				<strong>Automated Heap Dump Analysis for Developers, Testers, and Support Employees</strong><br/>
-				Krum Tsvetkov, Andreas Buchen<br/>
-				Friday, 9 May 2008, 11:30-12:30
 				</blockquote></li>
 
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a> (Stuttgart, Germany)<blockquote>

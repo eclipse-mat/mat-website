@@ -19,9 +19,14 @@
 			the <a href="http://java.sun.com/javaone/sf/">JavaOne 2008</a>!
 			Visit our technical session (TS-5729) on Friday 1:30pm!</div>
 		</div>
+		 <div class="sideitem">
+			<h6>JAX '08</h6>
+			<div align="left" style="padding:5px">Thanks for Your great feedback for our session
+			<a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&sessionid=7774">Automatisierte Speicheranalyse: Auf der Jagd nach den Speicherfressern</a>.</div>
+		</div>
  		<div class="sideitem">
 			<h6>EclipseCon '08</h6>
-			<div align="left" style="padding:5px">Thanks for Your great feedback for our session
+			<div align="left" style="padding:5px">Slides:
 			<a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=321">Memory Anaylsis Simplified: Automated Heap Dump Anaylsis</a>.</div>
 		</div>
 		<div class="sideitem">
