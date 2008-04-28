@@ -41,7 +41,7 @@
 				
 				<strong>Automated Heap Dump Analysis for Developers, Testers, and Support Employees</strong><br/>
 				Krum Tsvetkov, Andreas Buchen<br/>
-				Friday, 9 May 2008, 11:30-12:30
+				Friday, 9 May 2008, 13:30-14:30
 				</blockquote></li>
 			
 				<li><a href="http://www.andrena.de/Entwicklertag/2008/">Entwicklertag</a> (Karlsruhe, Germany)<blockquote>
