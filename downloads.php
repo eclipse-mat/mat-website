@@ -22,7 +22,7 @@
 			<h3>Latest Version 0.7 (Incubation)</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 0.7.0.20080416  |  <b>Date</b>: 16 April 2008  |  <b>Type</b>: Nightly Build
+                    <b>Version</b>: 0.7.0.20080428  |  <b>Date</b>: 28 April 2008  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
