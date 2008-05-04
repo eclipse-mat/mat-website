@@ -29,6 +29,7 @@
 		<ul>
 			<li><a href="/mat/downloads.php">Download</a></li>
 			<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
+			<li><a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a></li>
 		</ul>
 		
 		<br/
