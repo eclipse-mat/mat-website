@@ -16,8 +16,8 @@
 		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div align="left" style="padding:5px">
-			<a href="http://java.sun.com/javaone/sf/">JavaOne</a>, May '08
-			<a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&sessionid=7774">JAX</a>, April '08
+			<a href="http://java.sun.com/javaone/sf/">JavaOne</a>, May '08<br/>
+			<a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&sessionid=7774">JAX</a>, April '08<br/>
 			<a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=321">EclipseCon</a>, March '08 (Slides)</div>
 		</div>
 		<div class="sideitem">
