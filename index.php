@@ -37,6 +37,18 @@
 
 		<div class="homeitem3col">
 			<h3>Upcoming Events</h3>
+
+			<ul class="midlist">
+				<li><a href="http://live.eclipse.org/node/520">Eclipse Webinar: Memory Analyzer</a><blockquote>
+				<img src="http://live.eclipse.org/files/images/eclipse_live_logo_header.jpg" border="0" /><br/><br/>
+
+				<strong>Introduction to the Memory Analyzer</strong><br/>
+				Krum Tsvetkov, Andreas Buchen<br/>
+				Thursday, 29 May 2008, 8:00 am PDT / 11:00 am EDT / 3:00 pm GMT -
+				<a href="http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=29&year=2008&hour=15&min=0&sec=0&p1=0">Convert to other time zones</a>
+				</blockquote></li>
+			</ul>
+			
 			<ul class="midlist">
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a> (Stuttgart, Germany)<blockquote>
 				<img src="http://www.java-forum-stuttgart.de/abb/logo.jpg" border="0" width="300" height="59"/><br/><br/>
