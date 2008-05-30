@@ -7,7 +7,7 @@
 		</div>
  		<div class="sideitem">
 			<h6>Incubation</h6>
-			<div align="center"><a href="/projects/what-is-incubation.php"><img align="center"
+			<div align="center"><a href="/projects/what-is-incubation.php"><img
 			src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
 			<div align="center">This project is in the
 				<a href="/projects/dev_process/validation-phase.php">Incubation Phase</a>
@@ -27,7 +27,6 @@
 			<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Newsgroup</a>
 			<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.memory-analyzer/maillist.html">[archive]</a></div>
 		</div>
-	</div>
 
 EOHTML
 ?>

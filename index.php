@@ -49,7 +49,7 @@
 
 			<ul class="midlist">
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a> (Stuttgart, Germany)<blockquote>
-				<img src="http://www.java-forum-stuttgart.de/abb/logo.jpg" border="0" width="300" height="59"/><br/><br/>
+				<img src="http://www.java-forum-stuttgart.de/abb/logo.jpg" border="0" width="300" height="59" alt="Java Forum Stuttgart Logo"/><br/><br/>
 
 				<strong>Memory Analysis in a Nutshell</strong><br/>
 				Elena Nayashkova<br/>
