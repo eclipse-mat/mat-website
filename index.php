@@ -33,7 +33,7 @@
 			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a></li>
 		</ul>
 
-		<br/
+		<br/>
 
 		<div class="homeitem3col">
 			<h3>Webinar</h3>
