@@ -13,7 +13,7 @@
 	<div id="midcolumn">
 		<p>Download the Memory Analyzer as <strong>feature</strong> using the Update Manager: One feature contains the
 		heap analysis and reports, and the other contains pie charts.
-		The latter requires the <a href="/birt">BIRT Chart Engine</a>.</p>
+		The latter requires the <a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater).</p>
 
 		<p>The <strong>stand-alone</strong> version is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
@@ -42,7 +42,6 @@
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20080517-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (35,2 MB)</a><br/>
                     <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20080517-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20080517-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (34,7 MB)</a><br/>
-                    Ask us for more platforms, if you are interested!
                 </li>
             </ul>
 		</div>
