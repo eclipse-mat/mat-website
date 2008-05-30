@@ -11,6 +11,7 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
+	<div>
 		<a href="/mat/about/screenshots.php"><img
 		    align="left" src="/mat/home/mat_thumb.png" border="0" alt="Memory Analyzer Screenshot"
 		    style="padding: 10px 20px 30px 10px;"/></a>
@@ -35,8 +36,7 @@
 
 		<br/>
 	</div>
-
-	<div id="midcolumn">
+	<div>
 		<div class="homeitem3col">
 			<h3>Webinar</h3>
 			<ul class="midlist">
@@ -60,7 +60,8 @@
 			</ul>
 		</div>
 	</div>
-	
+	</div>
+
 	<div id="rightcolumn">
         $sidebar
 	</div>
