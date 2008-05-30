@@ -35,29 +35,6 @@
 
 		<br/>
 
-		<div class="homeitem3col">
-			<h3>Webinar</h3>
-			<ul class="midlist">
-				<li><a href="http://live.eclipse.org/node/520">Memory Analyzer Webinar</a><blockquote>
-				</blockquote>Krum Tsvetkov and Andreas Buchen recorded this Webinar on 29 May 2008.
-				Listen in to get an overview over the most important features.</li>
-			</ul>
-		</div>
-
-		<div class="homeitem3col">
-			<h3>Upcoming Events</h3>
-
-			<ul class="midlist">
-				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a> (Stuttgart, Germany)<blockquote>
-				<img src="http://www.java-forum-stuttgart.de/abb/logo.jpg" border="0" width="300" height="59" alt="Java Forum Stuttgart Logo"/><br/><br/>
-
-				<strong>Memory Analysis in a Nutshell</strong><br/>
-				Elena Nayashkova<br/>
-				Thursday, 3 July 2008, 11:10-11:55
-				</blockquote></li>
-			</ul>
-		</div>
-
 	</div>
 
 	<div id="rightcolumn">
