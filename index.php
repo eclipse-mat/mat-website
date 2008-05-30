@@ -11,7 +11,7 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-	<div>
+	<div style="height:340px">
 		<a href="/mat/about/screenshots.php"><img
 		    align="left" src="/mat/home/mat_thumb.png" border="0" alt="Memory Analyzer Screenshot"
 		    style="padding: 10px 20px 30px 10px;"/></a>
