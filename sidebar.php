@@ -16,6 +16,7 @@
 		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div align="left" style="padding:5px">
+			<a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a>, July '08<br/>			
 			<a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-5729&yr=2008&track=tools">JavaOne</a>, May '08<br/>
 			<a href="http://www.andrena.de/Entwicklertag/2008/Vortraege/Memory-Analyzer.html">Andrena Entwicklertag</a>, May '08<br/>
 			<a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&sessionid=7774">JAX</a>, April '08<br/>
