@@ -41,12 +41,12 @@
 			<h3>Upcoming Events</h3>
 			<ul class="midlist">
 				<li><a href="http://www.eclipsecon.org/summiteurope2008/sessions?id=135">Eclipse Summit Europe 2008</a>
-				<blockquote><img border="0" src="http://www.eclipsesummit.org/summiteurope2008/image/friends/125x72.gif" 
- 				height="72" width="125" alt="Eclipse Summit Europe 2008"/><br/>
+				<img border="0" src="http://www.eclipsesummit.org/summiteurope2008/image/friends/125x72.gif" 
+ 				height="72" width="125" alt="Eclipse Summit Europe 2008"/><blockquote></blockquote>
  				<strong>Eclipse Memory Analyzer - More Than Just a Heap Walker</strong><br/>
 				Elena Nayashkova(SAP), Andrew Johnson(IBM)<br/>
 				Thursday, 20 November 2008, 14:25-14:50
-				</blockquote></li>				
+				</li>				
 			</ul>		
 		</div>
 		<div class="homeitem3col">
