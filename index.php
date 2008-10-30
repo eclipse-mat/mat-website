@@ -38,6 +38,16 @@
 	</div>
 	<div>
 		<div class = "homeitem3col">
+			<h3>News</h3>
+			<ul class="midlist">
+				<li><a href="http://www.ibm.com/developerworks/java/jdk/tools/mat.html">Memory Analyzer now supports IBM System Dumps</a>
+ 				<blockquote></blockquote>
+ 				IBM has published a plug-in on Alphaworks that enables the Memory Analyzer to read DTFJ formatted system dumps.
+ 				Supported are <strong>IBM JDK 1.4.2 SR12, 5.0 SR8a and 6.0 SR2</strong> and greater.
+				</li>				
+			</ul>		
+		</div>
+		<div class = "homeitem3col">
 			<h3>Upcoming Events</h3>
 			<ul class="midlist">
 				<li><img border="0" src="http://www.eclipsesummit.org/summiteurope2008/image/friends/125x72.gif" 
