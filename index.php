@@ -57,7 +57,16 @@
 				Elena Nayashkova(SAP), Andrew Johnson(IBM)<br/>
 				Thursday, 20 November 2008, 14:25-14:50
 				</li>				
-			</ul>		
+			</ul>
+			<ul class="midlist">
+				<li><a href="http://majug.de/talks">Java User Group Mannheim (MaJUG)</a>
+ 				<blockquote></blockquote>
+ 				<strong>Eclipse Memory Analyzer</strong><br/>
+				Markus Kohler (SAP)<br/>
+				Tuesday, 25 November 2008, 19:00
+				</li>				
+			</ul>
+			http://majug.de/talks
 		</div>
 		<div class="homeitem3col">
 			<h3>Webinar</h3>
