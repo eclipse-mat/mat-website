@@ -66,7 +66,6 @@
 				Tuesday, 25 November 2008, 19:00
 				</li>				
 			</ul>
-			http://majug.de/talks
 		</div>
 		<div class="homeitem3col">
 			<h3>Webinar</h3>
