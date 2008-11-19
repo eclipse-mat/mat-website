@@ -22,7 +22,7 @@
 			<h3>Latest Version 0.7 (Incubation)</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 0.7.0.20081008  |  <b>Date</b>: 08 October 2008  |  <b>Type</b>: Nightly Build
+                    <b>Version</b>: 0.7.0.20081118  |  <b>Date</b>: 18 November 2008  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
@@ -30,18 +30,18 @@
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
 
-                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-win32.win32.x86.zip">Windows (x86) (36,6 MB)</a><br/>
-                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-win32.win32.x86_64.zip">Windows (x86_64) (36,6 MB)</a><br/>
-                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (36,2 MB)</a><br/>
-                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-linux.gtk.x86.zip">Linux (x86/GTK 2) (36,5 MB)</a><br/>
-                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (36,7 MB)</a><br/>
-                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081008-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (36,2 MB)</a><br/>
+                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-win32.win32.x86.zip">Windows (x86) (36,6 MB)</a><br/>
+                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-win32.win32.x86_64.zip">Windows (x86_64) (36,7 MB)</a><br/>
+                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (36,3 MB)</a><br/>
+                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-linux.gtk.x86.zip">Linux (x86/GTK 2) (36,6 MB)</a><br/>
+                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (36,7 MB)</a><br/>
+                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (36,3 MB)</a><br/>
                 </li>
             </ul>
 		</div>
