@@ -11,11 +11,11 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-		<p>The <strong>stand-alone</strong> version is based on Eclipse RCP. It is useful if you do not want to install
+		<p>The <strong>stand-alone</strong> Memory Analyzer is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
 		
-		<p>Install the Memory Analyzer as <strong>feature</strong> using the Update Manager.
-		The <em>Memory Analyzer (Chart)</em> feature is optional and requires the
+		<p>Install the Memory Analyzer <strong>into Ganymede</strong> using the Update Manager.
+		The <em>Memory Analyzer (Chart)</em> feature is optional. The chart feature requires the
 		<a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater, available via Update Manager).</p>
 
 		<div class="homeitem3col">
@@ -53,8 +53,8 @@
 					<img src="/mat/img/install_proxy.png" border="0" width="603" height="533" alt="Proxy Server Configuration Dialog" /></li>
 				<li>Start the Update Manage via <strong>Help -> Software Updates...</strong><br/><br/>
 					<img src="/mat/img/install_menu_updates.png" border="0" width="215" height="235" alt="Menu Software Updates" /></li>
-				<li>Choose the tab <strong>Available Software</strong> and add the Memory Analyzer Update site:<br/><br/>
-					<a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a><br/>
+				<li>Choose the tab <strong>Available Software</strong> and add the Memory Analyzer Update site:<br/>
+					<a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a><br/><br/>
 					<img src="/mat/img/install_add_site.png" border="0" width="606" height="513" alt="Add MAT's Update Site" /></li>
 				<li>Pick the <strong>Memory Analyzer</strong> feature:<br/><br/>
 					Please note: The <strong>Memory Analyzer (Charts)</strong> feature is <strong>optional</strong> and requires the <strong>BIRT Chart Runtime</strong>.
