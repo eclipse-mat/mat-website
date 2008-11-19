@@ -17,6 +17,7 @@ EOBRANDING;
        global $Nav;
        $Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 2);
        $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
+       $Nav->addCustomNav("FAQ (Wiki)", "http://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ", "_self", 2);
     }
        
     function add2contributors() {

@@ -11,12 +11,12 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-		<p>Download the Memory Analyzer as <strong>feature</strong> using the Update Manager: One feature contains the
-		heap analysis and reports, and the other contains pie charts.
-		The latter requires the <a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater).</p>
-
 		<p>The <strong>stand-alone</strong> version is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
+		
+		<p>Install the Memory Analyzer as <strong>feature</strong> using the Update Manager.
+		The <em>Memory Analyzer Chart Feature</em> is optional and requires the
+		<a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater, available via Update Manager).</p>
 
 		<div class="homeitem3col">
 			<h3>Latest Version 0.7 (Incubation)</h3>
@@ -44,6 +44,24 @@
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081118-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (36,3 MB)</a><br/>
                 </li>
             </ul>
+		</div>
+
+		<div class="homeitem3col">
+			<h3>Installation Instructions (as Feature into Eclipse Ganymede)</h3>
+			<ul class="midlist">
+				<li>If you are living behind a proxy server, configure the URL via <strong>Preferences -> General -> Network Connections</strong>:<br/>
+					<img src="/mat/img/install_proxy.png" border="0" width="603" height="533" alt="Proxy Server Configuration Dialog" /></li>
+				<li>Start the Update Manage via <strong>Help -> Software Updates...</strong><br/>
+					<img src="/mat/img/install_menu_updates.png" border="0" width="215" height="235" alt="Menu Software Updates" /></li>
+				<li>Choose the tab <strong>Available Software</strong> and add the Memory Analyzer Update site:<br/>
+					<a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a><br/>
+					<img src="/mat/img/install_add_site.png" border="0" width="606" height="513" alt="Add MAT's Update Site" /></li>
+				<li>Pick the <strong>Memory Analyzer</strong> feature:<br/>
+					Please note: The <strong>Memory Analyzer (Charts)</strong> feature is <strong>optional</strong> and requires the <strong>BIRT Chart Runtime</strong>.
+					The Runtime will be automatically installed via the Ganymede Update Site but may increase download times.<br/>
+					<img src="/mat/img/install_pick_mat.png" border="0" width="606" height="513" alt="Pick MAT's Feature" /></li>
+				<li>Accept the license and restart Eclipse</li>
+			</ul>
 		</div>
 
 	</div>
