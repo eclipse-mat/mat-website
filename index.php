@@ -46,26 +46,14 @@
  				Supported are <strong>IBM JDK 1.4.2 SR12, 5.0 SR8a and 6.0 SR2</strong> and greater.
 				</li>				
 			</ul>		
-		</div>
-		<div class = "homeitem3col">
-			<h3>Upcoming Events</h3>
 			<ul class="midlist">
-				<li><img border="0" src="http://www.eclipsesummit.org/summiteurope2008/image/friends/125x72.gif" 
- 				height="72" width="125" alt="Eclipse Summit Europe 2008"/><a href="http://www.eclipsecon.org/summiteurope2008/sessions?id=135">Eclipse Summit Europe 2008</a>
+				<li><a href="/mat/downloads.php#0_7_0">Memory Analyzer 0.7 Released</a>
  				<blockquote></blockquote>
- 				<strong>Eclipse Memory Analyzer - More Than Just a Heap Walker</strong><br/>
-				Elena Nayashkova(SAP), Andrew Johnson(IBM)<br/>
-				Thursday, 20 November 2008, 14:25-14:50
+ 				On December 10th, MAT completed the review of release 0.7.
+ 				(<a href="/project-slides/MAT_0.7_ReleaseReview.pdf">slides</a> |
+ 				<a href="/mat/downloads.php#0_7_0">download</a>)
 				</li>				
-			</ul>
-			<ul class="midlist">
-				<li><a href="http://majug.de/talks">Java User Group Mannheim (MaJUG)</a>
- 				<blockquote></blockquote>
- 				<strong>Eclipse Memory Analyzer</strong><br/>
-				Markus Kohler (SAP)<br/>
-				Tuesday, 25 November 2008, 19:00
-				</li>				
-			</ul>
+			</ul>		
 		</div>
 		<div class="homeitem3col">
 			<h3>Webinar</h3>

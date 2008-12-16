@@ -19,10 +19,10 @@
 		<a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater, available via Update Manager).</p>
 
 		<div class="homeitem3col">
-			<h3>Latest Version 0.7 (Incubation)</h3>
+			<h3><a name="0_7_0"></a>Stable Version 0.7 (Incubation)</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 0.7.0.20081210  |  <b>Date</b>: 10 December 2008  |  <b>Type</b>: Nightly Build
+                    <b>Version</b>: 0.7.0.20081210  |  <b>Date</b>: 10 December 2008  |  <b>Type</b>: Released
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
