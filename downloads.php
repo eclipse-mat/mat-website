@@ -40,8 +40,14 @@
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-linux.gtk.x86.zip">Linux (x86/GTK 2) (36,6 MB)</a><br/>
                     <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (36,7 MB)</a><br/>
+                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (36,6 MB)</a><br/>
                     <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (36,3 MB)</a><br/>
+                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (36,2 MB)</a><br/>
+                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-aix.motif.ppc.zip">AIX (PPC/Motif) (36,2 MB)</a><br/>
                 </li>
             </ul>
 		</div>
