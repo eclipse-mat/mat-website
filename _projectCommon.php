@@ -1,8 +1,12 @@
 <?php
-	# Set the theme for your project's web pages.
-	# See the Committer Tools "How Do I" for list of themes
-	# https://dev.eclipse.org/committers/ 
-	$theme = "Nova";
+	if (isset ($_GET["skin"]) && preg_match("/^(Blue|EclipseStandard|Industrial|Lazarus|Miasma|Modern|OldStyle|Phoenix|PhoenixTest|PlainText|Nova)$/", $_GET["skin"], $regs))
+	{
+		$theme = $regs[1];
+	}
+	else
+	{
+		$theme = "Lazarus";
+	}
 
 	$branding = <<<EOBRANDING
 <div id="branding">
