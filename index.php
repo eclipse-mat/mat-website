@@ -1,4 +1,11 @@
-<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");
+require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php");
+require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php");
+$App 	= new App();
+$Nav	= new Nav();
+$Menu 	= new Menu();
+include($App->getProjectCommon());
 
 	#*****************************************************************************
 	# Memory Analyzer Home Page
@@ -10,13 +17,13 @@
 
 	$html = <<<EOHTML
 
+<div id="maincontent">
 	<div id="midcolumn">
-	<div style="height:340px">
-		<a href="/mat/about/screenshots.php"><img
-		    align="left" src="/mat/home/mat_thumb.png" border="0" alt="Memory Analyzer Screenshot"
-		    style="padding: 10px 20px 30px 10px;"/></a>
-
-		<p>The Eclipse Memory Analyzer is a fast and feature-rich <strong>Java heap analyzer</strong> that helps you
+		<h1>Memory Analyzer (MAT)</h1>
+	
+		<table>
+		<tr>
+		<td><p>The Eclipse Memory Analyzer is a fast and feature-rich <strong>Java heap analyzer</strong> that helps you
 		find memory leaks and reduce memory consumption.</p>
 
 		<p>The Memory Analyzer was developed to analyze productive heap dumps with hundreds of millions
@@ -26,17 +33,21 @@
 
 		<p>Using these features, a report automatically extracts leak suspects. It includes details about
 		the objects accumulated, the path to the GC Roots, plus general information like system properties.</p>
+		</td>
+		<td align="right"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot">
+		</td>
+		</table>
 
-		<ul>
-			<li><a href="/mat/downloads.php">Download</a></li>
-			<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
-			<li><a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a></li>
-			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a></li>
-		</ul>
+		<div class = "homeitem3col">
+			<h3>Links</h3>
+			<ul>
+				<li><a href="/mat/downloads.php">Download</a></li>
+				<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
+				<li><a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a></li>
+				<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a></li>
+			</ul>
+		</div>
 
-		<br/>
-	</div>
-	<div>
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
@@ -55,6 +66,7 @@
 				</li>				
 			</ul>		
 		</div>
+		
 		<div class="homeitem3col">
 			<h3>Webinar</h3>
 			<ul class="midlist">
@@ -69,6 +81,7 @@
 	<div id="rightcolumn">
         $sidebar
 	</div>
+</div>
 
 EOHTML;
 
