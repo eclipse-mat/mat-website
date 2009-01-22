@@ -76,7 +76,6 @@ include($App->getProjectCommon());
 			</ul>
 		</div>		
 	</div>
-	</div>
 
 	<div id="rightcolumn">
         $sidebar
