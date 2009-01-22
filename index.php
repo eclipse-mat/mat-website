@@ -30,7 +30,7 @@ include($App->getProjectCommon());
 	
 		<table>
 		<tr>
-		<td><p>The Eclipse Memory Analyzer is a fast and feature-rich <b>Java heap analyzer</b> that helps you
+		<td valign="top"><p>The Eclipse Memory Analyzer is a fast and feature-rich <b>Java heap analyzer</b> that helps you
 		find memory leaks and reduce memory consumption.</p>
 
 		<p>Use the Memory Analyzer to analyze productive heap dumps with hundreds of millions
