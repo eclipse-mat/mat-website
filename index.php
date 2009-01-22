@@ -2,9 +2,16 @@
 require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");
 require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php");
 require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php");
-$App 	= new App();
-$Nav	= new Nav();
-$Menu 	= new Menu();
+if (is_file($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php")) 
+{
+	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
+}
+$App = new App(); $Nav = new Nav(); $Menu = new Menu(); 
+if (class_exists("ProjectInfo"))
+{
+	$projectInfo = new ProjectInfo("technology.mat");
+	$projectInfo->generate_common_nav( $Nav );
+}		
 include($App->getProjectCommon());
 
 	#*****************************************************************************

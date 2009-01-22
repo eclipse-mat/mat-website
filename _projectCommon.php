@@ -41,9 +41,4 @@ EOBRANDING;
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View SVN", "http://dev.eclipse.org/viewcvs/index.cgi/?root=Technology_MAT", "_self", 2);
     $Nav->addCustomNav("Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=technology.mat", "_self", 2);
-
-    require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
-    $projectInfo = new ProjectInfo("technology.mat");
-    $projectInfo->generate_common_nav( $Nav );
-    
 ?>
