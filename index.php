@@ -30,28 +30,23 @@ include($App->getProjectCommon());
 	
 		<table>
 		<tr>
-		<td><p>The Eclipse Memory Analyzer is a fast and feature-rich <strong>Java heap analyzer</strong> that helps you
+		<td><p>The Eclipse Memory Analyzer is a fast and feature-rich <b>Java heap analyzer</b> that helps you
 		find memory leaks and reduce memory consumption.</p>
 
-		<p>The Memory Analyzer was developed to analyze productive heap dumps with hundreds of millions
-		of objects. Once the heap dump is parsed, you can re-open it instantly, immediately get the
-		retained size of single objects and quickly approximate the retained size of a set of objects.
-		The reference chain to the Garbage Collection Roots then details why the object is not garbage collected.</p>
-
-		<p>Using these features, a report automatically extracts leak suspects. It includes details about
-		the objects accumulated, the path to the GC Roots, plus general information like system properties.</p>
+		<p>Use the Memory Analyzer to analyze productive heap dumps with hundreds of millions
+		of objects, quickly calculate the retained sizes of objects, see who is preventing the Garbage
+		Collector from collecting objects, run a report to automatically extract leak suspects.</p>
 		</td>
-		<td align="right"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot">
+		<td align="right" valign="top"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot" width="250" height="282">
 		</td>
 		</table>
 
 		<div class = "homeitem3col">
 			<h3>Links</h3>
 			<ul>
-				<li><a href="/mat/downloads.php">Download</a></li>
-				<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer">Getting Started</a></li>
-				<li><a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a></li>
-				<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a></li>
+				<li><a href="/mat/downloads.php">Download</a> the latest version as RCP application.</li>
+				<li>Read our <a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a> for background information.</li>
+				<li>Post your questions to the <a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a>.</li>
 			</ul>
 		</div>
 
