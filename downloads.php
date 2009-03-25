@@ -25,7 +25,7 @@
                     <b>Version</b>: 0.7.100.20090323  |  <b>Date</b>: 24 March 2009  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
-                    <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/latest/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
+                    <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/latest/update-site/">http://download.eclipse.org/technology/mat/latest/update-site/</a>
                     (5,0 MB)</li>
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
