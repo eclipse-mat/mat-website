@@ -53,6 +53,17 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
+				<li><a href="http://java.sun.com/javaone">Memory Analyzer at JavaOne 2009</a>
+ 				<blockquote></blockquote>
+ 				Krum Tsvetkov and Andrew Johnson will give a technical session at this year's JavaOne conference.
+ 				The session is <a href="http://www28.cplan.com/cc230/session_details.jsp?isid=304118&ilocation_id=230-1&ilanguage=english">TS-4118 Practical Lessons in Memory Analysis</a>
+ 				and will take place on Wednesday, June 3, 13:30 - 14:30.   
+ 				<blockquote></blockquote>
+ 				Both speakers will also be available at the Eclipse booth on Thursday, June 4, 12:00 - 14:00. 
+ 				If you have any questions or feedback, you can talk to them at the booth.
+				</li>				
+			</ul>
+			<ul class="midlist">
 				<li><a href="http://www.ibm.com/developerworks/java/jdk/tools/mat.html">Memory Analyzer now supports IBM System Dumps</a>
  				<blockquote></blockquote>
  				IBM has published a plug-in on Alphaworks that enables the Memory Analyzer to read DTFJ formatted system dumps.
