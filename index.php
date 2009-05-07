@@ -61,6 +61,8 @@ include($App->getProjectCommon());
  				<blockquote></blockquote>
  				Both speakers will also be available at the Eclipse booth on Thursday, June 4, 12:00 - 14:00. 
  				If you have any questions or feedback, you can talk to them at the booth.
+ 				<blockquote></blockquote>
+ 				<a href="http://java.sun.com/javaone" target="_blank"><img src="http://www.cplan.com/javaone2009/creativetoolbox/images/09J1_170x170_Meet_Us.gif" alt="Meet Us At JavaOne" width="170" height="170" border="0" /></a>
 				</li>				
 			</ul>
 			<ul class="midlist">
