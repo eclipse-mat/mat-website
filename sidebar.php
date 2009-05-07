@@ -24,7 +24,7 @@
 			<h6>Upcoming Talks</h6>
 			<div class="modal">
 			<ul>
-				<li><a href="http://www28.cplan.com/cc230/session_details.jsp?isid=304118&ilocation_id=230-1&ilanguage=english">JavaOne</a>, June 3, 13:00
+				<li><a href="http://www28.cplan.com/cc230/session_details.jsp?isid=304118&ilocation_id=230-1&ilanguage=english">TS-4118 at JavaOne</a>, 3 June '09, 13:00
 				<a href="http://java.sun.com/javaone" target="_blank"><img src="http://www.cplan.com/javaone2009/creativetoolbox/images/09J1_170x170_Meet_Us.gif" alt="Meet Us At JavaOne" width="170" height="170" border="0" /></a>
 				</li>
 			</ul>
