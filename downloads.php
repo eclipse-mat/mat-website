@@ -22,7 +22,7 @@
 			<h3><a name="latest"></a>Latest Version (Incubation)</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 0.7.100.200900507  |  <b>Date</b>: 07 May 2009  |  <b>Type</b>: Nightly Build
+                    <b>Version</b>: 0.7.100.20090507  |  <b>Date</b>: 07 May 2009  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/latest/update-site/">http://download.eclipse.org/technology/mat/latest/update-site/</a>
