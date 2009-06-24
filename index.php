@@ -53,6 +53,12 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
+				<li><a href="/mat/downloads.php#0_8_0">Memory Analyzer 0.8 part of Galileo release</a>
+ 				<blockquote></blockquote>
+ 				As part of the Galileo Simultaneous release, MAT 0.8 includes various new features. Check out the <a href="/mat/0.8/noteworthy.html">New and Noteworthy</a> and the <a href="/mat/downloads.php#0_8_0">download</a> page.
+				</li>				
+			</ul>
+			<ul class="midlist">
 				<li><a href="http://java.sun.com/javaone">Memory Analyzer at JavaOne 2009</a>
  				<blockquote></blockquote>
  				Krum Tsvetkov and Andrew Johnson will give a technical session at this year's JavaOne conference.
