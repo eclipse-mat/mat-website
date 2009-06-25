@@ -18,7 +18,7 @@
 		The <em>Memory Analyzer (Chart)</em> feature is optional. The chart feature requires the
 		<a href="/birt">BIRT Chart Engine</a> (Version 2.2.2 or greater, available via Update Manager).</p>
 
-		<div class="homeitem3col">
+	<!--	<div class="homeitem3col">
 			<h3><a name="latest"></a>Latest Version (Incubation)</h3>
             <ul>
                 <li>
@@ -54,10 +54,10 @@
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20090617-aix.motif.ppc.zip">AIX (PPC/Motif) (39,4 MB)</a><br/>
                 </li>
             </ul>
-		</div>
+		</div> --!>
 		
 		<div class="homeitem3col">
-			<h3><a name="0_8_0"></a>Stable Version 0.8 (Incubation)</h3>
+			<h3><a name="0_8_0"></a>Galileo Release Version 0.8 (Incubation)</h3>
             <ul>
                 <li>
                     <b>Version</b>: 0.8.0.20090617  |  <b>Date</b>: 17 June 2009  |  <b>Type</b>: Released
