@@ -55,7 +55,7 @@
                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20090617-aix.motif.ppc.zip">AIX (PPC/Motif) (39,4 MB)</a><br/>
                 </li>
             </ul>
-		</div> --!>
+		</div> -->
 		
 		<div class="homeitem3col">
 			<h3><a name="0_8_0"></a>Galileo Release Version 0.8 (Incubation)</h3>
