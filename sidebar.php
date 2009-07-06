@@ -21,20 +21,10 @@
 		</div>
 		
 		<div class="sideitem">
-			<h6>Upcoming Talks</h6>
-			<div class="modal">
-			<ul>
-				<li><a href="http://www28.cplan.com/cc230/session_details.jsp?isid=304118&ilocation_id=230-1&ilanguage=english">TS-4118 at JavaOne</a>, 3 June '09, 13:00
-				<a href="http://java.sun.com/javaone" target="_blank"><img src="http://www.cplan.com/javaone2009/creativetoolbox/images/09J1_170x170_Meet_Us.gif" alt="Meet Us At JavaOne" width="170" height="170" border="0" /></a>
-				</li>
-			</ul>
-			</div>
-		</div>
-
-		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div class="modal">
 			<ul>
+				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-4118&yr=2009&track=javase">JavaOne</a>, June '09</li>
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a>, July '08</li>
 				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-5729&yr=2008&track=tools">JavaOne</a>, May '08</li>
 				<li><a href="http://www.andrena.de/Entwicklertag/2008/Vortraege/Memory-Analyzer.html">Andrena Entwicklertag</a>, May '08</li>
