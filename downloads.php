@@ -26,7 +26,12 @@
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/latest/update-site/">http://download.eclipse.org/technology/mat/latest/update-site/</a>
-                    (8,5 MB)</li>
+                    (8,5 MB)
+                </li>
+                <li>
+                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/MemoryAnalyzer-Incubation-0.8.0.200907091913.zip">MemoryAnalyzer-incubation-0.8.0.200907091913.zip</a>
+                    (8,2 MB)
+                </li>
                                    
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
