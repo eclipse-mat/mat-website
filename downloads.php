@@ -29,7 +29,7 @@
                     (8,5 MB)
                 </li>
                 <li>
-                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/MemoryAnalyzer-Incubation-0.8.0.200907091913.zip">MemoryAnalyzer-incubation-0.8.0.200907091913.zip</a>
+                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/MemoryAnalyzer-Incubation-0.8.0.200907091913.zip">MemoryAnalyzer-Incubation-0.8.0.200907091913.zip</a>
                     (8,2 MB)
                 </li>
                                    
@@ -105,6 +105,7 @@
             </ul>
 		</div>
 
+<!--
 		<div class="homeitem3col">
 			<h3><a name="0_7_0"></a>Stable Version 0.7 (Incubation)</h3>
             <ul>
@@ -138,7 +139,7 @@
                 </li>
             </ul>
 		</div>
-
+-->
 		<div class="homeitem3col">
 			<h3>Installation Instructions (as Feature into Eclipse Ganymede)</h3>
 			<ul class="midlist">
