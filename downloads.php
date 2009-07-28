@@ -104,6 +104,16 @@
                 </li>
             </ul>
 		</div>
+		
+		<div class="homeitem3col">
+			<h3><a name="0_8_0"></a>Archived Releases</h3>
+            <ul>
+                <li>
+                    <a href="archive.php">Archived Releases</a>
+                </li>
+            </ul>
+		</div>
+
 
 		<div class="homeitem3col">
 			<h3>Installation Instructions (as Feature into Eclipse Ganymede)</h3>

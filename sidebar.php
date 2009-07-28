@@ -44,16 +44,6 @@
 			</ul>
 			</div>
 		</div>
-		
-		<div class="sideitem">
-			<h6>Archived Releases</h6>
-			<div class="modal">
-			<ul>
-				<li><a href="archive.php">Archived Releases</a>
-			    </li>
-			</ul>
-			</div>
-		</div>
 
 EOHTML
 ?>
