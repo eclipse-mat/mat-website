@@ -25,7 +25,7 @@
                     <b>Version</b>: 0.7.0.20081210  |  <b>Date</b>: 10 December 2008  |  <b>Type</b>: Released
                 </li>
                 <li>
-                    <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/0.7/update-site/">http://download.eclipse.org/technology/mat/0.7/update-site/</a>
+                    <b>Update Site</b>: <a href="http://archive.eclipse.org/technology/mat/0.7/update-site/">http://archive.eclipse.org/technology/mat/0.7/update-site/</a>
                     (5,3 MB)</li>
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
