@@ -39,6 +39,7 @@ include($App->getProjectCommon());
 		</td>
 		<td align="right" valign="top"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot" width="250" height="282">
 		</td>
+		</tr>
 		</table>
 
 		<div class = "homeitem3col">
