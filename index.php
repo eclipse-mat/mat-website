@@ -59,11 +59,10 @@ include($App->getProjectCommon());
 				</li>				
 			</ul>
 			<ul class="midlist">
-				<li><a href="http://www.ibm.com/developerworks/java/jdk/tools/mat.html">Memory Analyzer now supports IBM System Dumps and Portable Heap Dumps</a>
+				<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer#System_Dumps_and_Heap_Dumps_from_IBM_Virtual_Machines">Memory Analyzer now supports IBM System Dumps and Portable Heap Dumps</a>
  				<blockquote></blockquote>
  				Memory Analyzer 0.8 includes a Diagnostic Tool Framework for Java (DTFJ) adapter, which together with a DTFJ
  				feature from IBM, enables the Memory Analyzer to read DTFJ formatted system dumps and Portable Heap Dumps.
- 				See these <a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer#System_Dumps_and_Heap_Dumps_from_IBM_Virtual_Machines">instructions</a> for details.
  				Supported are dumps from <strong>IBM JDK 1.4.2 SR12, 5.0 SR8a and 6.0 SR2</strong> and greater.
 				</li>				
 			</ul>		
