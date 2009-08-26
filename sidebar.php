@@ -24,12 +24,12 @@
 			<h6>Previous Talks</h6>
 			<div class="modal">
 			<ul>
-				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-4118&yr=2009&track=javase">JavaOne</a>, June '09</li>
+				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-4118&amp;yr=2009&amp;track=javase">JavaOne</a>, June '09</li>
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a>, July '08</li>
-				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-5729&yr=2008&track=tools">JavaOne</a>, May '08</li>
+				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-5729&amp;yr=2008&amp;track=tools">JavaOne</a>, May '08</li>
 				<li><a href="http://www.andrena.de/Entwicklertag/2008/Vortraege/Memory-Analyzer.html">Andrena Entwicklertag</a>, May '08</li>
-				<li><a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&sessionid=7774">JAX</a>, April '08</li>
-				<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=321">EclipseCon</a>, March '08 (Slides)</li>
+				<li><a href="http://entwickler.com/konferenzen/planer/show_details.php?konferenzid=59&amp;sessionid=7774">JAX</a>, April '08</li>
+				<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&amp;id=321">EclipseCon</a>, March '08 (Slides)</li>
 			</ul>
 			</div>
 		</div>
