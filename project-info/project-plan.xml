@@ -71,7 +71,7 @@
 						</li>
 						<li>
 							<em>Expose Callstack Information for Threads (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=268458">268458</a>)</em><br /></em><br />
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=268458">268458</a>)</em><br />
 							Certain heap dump (from 1.6_14 and higher Sun JVM, IBM DTFJ formatted system dumps)
 							contain information about the callstacks of threads. Such information could be 
 							extremely helpful for the analysis of a series of problems, and therefore it 
