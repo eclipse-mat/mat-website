@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Eclipse Memory Analyzer">
-	<release projectid="technology.mat" version="0.8" />
+	<release projectid="technology.mat" version="1.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Memory Analyzer has a rich set of features to analyze heap dumps
@@ -36,7 +36,7 @@
 				We plan to build and publish a stable version of the Memory Analyzer on a monthly basis.
 			</html:div>
 		</preamble>
-		<milestone date="4/1/2010" milestone="0.8">
+		<milestone date="4/1/2010" milestone="1.0">
 			<html:div>Tentative Release Date 1.0</html:div>
 		</milestone>
 		<postamble />
