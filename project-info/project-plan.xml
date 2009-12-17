@@ -7,18 +7,18 @@
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Memory Analyzer has a rich set of features to analyze heap dumps
 			from various VM vendors. The main focus is now on
-			<strong>growing the community</strong> around the tool and,
-			hopefully, eventually maturing from incubation.</p>
+			<strong>growing the community</strong> around the tool and maturing from incubation.</p>
 			
-			<p>The next step is releasing the currently available code base as
-			version <strong>0.7</strong>. The rationale is this: First of all,
-			we have external dependencies (the DTFJ Parser provided by IBM and 
-			distributed via IBM's Alphaworks page) which require a stable version.
-			Secondly, we hope to increase community interest by providing
-			a released version.</p>
+			<p>During the incubation we managed to create some community around the tool,
+			to extend the list of involved committer companies (now SAP and IBM), to become
+			part of the Galileo simultaneous release, and to reach a download-rate of around 
+			1000 downloads weakly for the standalone RCP version of the Memory Analyzer. 
+			With these achievements behind, our next steps will be focused on the maturing 
+			of the project.
+			</p>
 			
-			<p>This project plan is concerned with the development wave beyond
-			this initial 0.7 release.</p>
+			<p>This project plan describes the improvements we target
+			for our first mature release 1.0</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -36,23 +36,20 @@
 				We plan to build and publish a stable version of the Memory Analyzer on a monthly basis.
 			</html:div>
 		</preamble>
-		<milestone date="11/15/2008" milestone="0.7">
-			<html:div>Tentative Release Date 0.7</html:div>
-		</milestone>
-		<milestone date="3/1/2009" milestone="0.8">
-			<html:div>Tentative Release Date 0.8</html:div>
+		<milestone date="4/1/2010" milestone="0.8">
+			<html:div>Tentative Release Date 1.0</html:div>
 		</milestone>
 		<postamble />
 	</release_milestones>
 	<target_environments>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			The Memory Analyzer requires Java 5 and runs on Eclipse 3.3 (Europa) and greater.
-			A stand-alone version is provided on the download server which is build with the latest
-			available platform (currently Eclipse 3.4 Ganymede). 
+			A stand-alone version is provided on the download server which is build currently 
+			with Eclipse 3.5.1. 
 		</html:div>
 		<internationalization>
-			<html:div>Currently, the Memory Analyzer is not prepared to be translated. String constants
-			are not yet externalized into resource bundles.</html:div>
+			<html:div>The Memory Analyzer is prepared to be translated. Translation relevant 
+			String constants are externalized into resource bundles.</html:div>
 		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
@@ -60,53 +57,68 @@
 	</compatibility_with_previous_releases>
 	<themes_and_priorities>
 		<preamble />
-		<theme name="Comparing Heap Dumps">
+		<theme name="New Features">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>A heap dump contains a snapshot of the Java heap at one point in time.
-						Every address is uniquely identified by its address. However, the addresses
-						do not remain stable because the Garbage Collector is constantly moving
-						objects around and thereby changing their addresses. Therefore only aggregates
-						can be compared easily.</p>
+					<p>These are some new features that we would like to finish for the 1.0 release</p>
 					<ul>
-						<li><em>Compare Multiple Heap Dumps (not only two) on the Basis
-							of the Class Histogram, Class Loader Histogram and Packages.</em><br />
-							The idea is to create a wizard which guides the user step-by-step
-							from the selection of the heap dumps to the results.
+						<li>
+							<em>Interactively Acquire Heap Dumps (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=229449">229449</a>)</em><br />
+							This feature adds a wizard to acquire a heap dump from a virtual machine
+							running on the local computer. The goal is to ease interactive analysis of an application
+							and reduce the time for novices to get started.
 						</li>
-						<li><em>Research Ways to Detect Leak Suspects Based on Comparing Heap Dumps.</em><br />
-							This is a rather open topic. The idea is to find growing structures
-							like maps which could indicate a leak suspect.
+						<li>
+							<em>Expose Callstack Information for Threads (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=268458">268458</a>)</em><br /></em><br />
+							Certain heap dump (from 1.6_14 and higher Sun JVM, IBM DTFJ formatted system dumps)
+							contain information about the callstacks of threads. Such information could be 
+							extremely helpful for the analysis of a series of problems, and therefore it 
+							will be exposed from the Memory Analyzer.
+						</li>
+						<li>
+							<em>Report Possible Memory Leaks in WeakHashMaps (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=296826">296826</a>)</em><br />
+							A WeakHashMap is expected to get rid of its entries for which the key is only
+							weakly referenced. One common problem causing lots of memory leaks is to have
+							a (strong) reference chain from the value of the WeakHashMap$Entry to its key. 
+							Such a hinder the "weakness" of the map. MAT will provide means to automatically
+							detect this anti-pattern.
+						</li>
+						<li>
+							<em>Improved Comparison Functionality</em><br />
+							The current comparison features of MAT are very limited - only the class histograms
+							of two different heap dumps can be compared.<br />
+							It should be possible to compare in MAT two and more arbitrary result tables which 
+							have similar columns, for example two histograms, two retained sets, two results 
+							from the &quot;groub by value&quot;, etc… These result tables can be from one and the
+							same heap dump, or from two or more different heap dumps.
+							Having this functionality one can do things like:
+							<ul>
+								<li>Compare the retained heap of the session for userA and userB (both within the same heap dump) and see why one is bigger than the other</li>
+								<li>Analyze how the retained set of userA’s session is changing over time (comparing heap dumps from different tests)</li>  
+								<li>Compare several group_by_value results and find which Strings appear in one set and are missing in another one, how the number of occurrence changes, etc…</li>
+							</ul> 
+							It should be possible to (re)order the results in an arbitrary way.
 						</li>
 					</ul>
 				</html:div>
 			</description>
 		</theme>
-		<theme name="Usability Features">
+		<theme name="Bug Fixes">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>Usability of the Memory Analyzer is important in order to attract new user groups.</p>
+					<p>These are some of the bugs we would like to fix for the 1.0 release</p>
 					<ul>
-						<li><em>Interactively Acquire Heap Dumps. (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=229449">229449</a>)</em><br />
-							The latest virtual machines provide interfaces to acquire a heap dump on demand. For example,
-							Sun Java 6 VM provides a JMX extension, on Unix platforms the command-line utility jmap is
-							available. This feature adds a wizard to acquire a heap dump from a virtual machine
-							running on the local computer. The goal is to ease interactive analysis of an application
-							and reduce the time for novices to get started. 
-						</li>
-						<li><em>Extend OQL to Handle Query Commands.</em><br />
-							Reports like the component report aggregate a lot of data into a single HTML page.
-							To be able to drill down, it must be possible to go back to the heap dump
-							and retrieve the objects. This requires an extension to the OQL to
-							execute queries and a mechanism identify rows / tree nodes from the result. 
-						</li>
-						<li><em>Equinox OSGi Bundle Explorer</em><br />
-							It should be possible to extract from the heap dump the state of the Equinox
-							runtime: bundles and their status, dependencies, registered and used services,
-							extension points etc. For a live system, this is available via the Plug-In Registry
-							Viewer (if installed), in the post-mortem case the MAT can help.
-						</li>
+						<li>No JvmInfo in Heap Dump details pane (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=272887">272887</a>)</li>
+						<li>Object reference graph incorrect (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=286421">286421</a>)</li>
+						<li>Wrong sizes reported for instances with a single byte field (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=231296">231296</a>)</li>
+						<li>Pie chart links sometimes wrong (<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=286410">286410</a>)</li>
 					</ul>
 				</html:div>
 			</description>
@@ -115,18 +127,15 @@
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
 					<p>The Memory Analyzer documentation is available as (a) help plug-in, (b) WIKI pages
-					and (c) blog postings for special topics. The documentation covers a broad range
-					of topics, but we acknowledge that it is often brief and not easily accessible
-					to non-domain experts.</p>
+					and (c) blog postings for special topics.</p>
 					<ul>
-						<li><em>Restructure the documentation along tasks.</em><br />
-							The documentation should concentrate on tasks ("find leaks" or "reduce footprint")
-							instead of features. This should reduce the learning curve of new users.
+						<li><em>Review the existing documentation</em><br />
+							Currently existing documentation should be reviewed and outdated parts have to 
+							be adjusted. 
 						</li>
-						<li><em>Improve the context help available for heap dump inspections.</em><br />
-							Today MAT displays a help button if a particular inspection provides context help.
-							However, right now help is only available for immediate dominators and the
-							component report. More context help is needed.
+						<li>
+							<em>Document new features</em><br />
+							The newly developed features have to be properly documented.
 						</li>
 						<li><em>Publish the Help Plug-in contents on the Eclipse.Org Page.</em><br />
 							Additionally delivering the help content via web pages will make them searchable
@@ -145,8 +154,7 @@
 					but also is utilized only sporadically during the development of big applications.
 					</p>
 					<ul>
-						<li>Participate in the Galileo Simultaneous Release.</li>
-						<li>Demo the Memory Analyzer at the Eclipse Summit Europe.</li>
+						<li>Participate in the Helios Simultaneous Release.</li>
 						<li>Be responsive to questions posted to the newsgroup and Bugzilla reports.</li>
 						<li>Regularly blog about memory related topics.</li>
 					</ul>
