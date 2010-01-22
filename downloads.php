@@ -22,42 +22,42 @@
 			<h3><a name="latest"></a>Latest Version (Incubation)</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 0.8.0.20091116  |  <b>Date</b>: 11 November 2009  |  <b>Type</b>: Nightly Build
+                    <b>Version</b>: 0.8.0.20100120  |  <b>Date</b>: 20 January 2010  |  <b>Type</b>: Nightly Build
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/technology/mat/latest/update-site/">http://download.eclipse.org/technology/mat/latest/update-site/</a>
-                    (8,5 MB)
+                    (8,47 MB)
                 </li>
                 <li>
-                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/MemoryAnalyzer-Incubation-0.8.0.200911161214.zip">MemoryAnalyzer-Incubation-0.8.0.200911161214.zip</a>
-                    (8,2 MB)
+                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/MemoryAnalyzer-Incubation-0.8.0.201001201617.zip">MemoryAnalyzer-Incubation-0.8.0.201001201617.zip</a>
+                    (8,27 MB)
                 </li>
                                    
                 <li>
                     <b>Stand-alone Eclipse RCP</b><br/>
 
-                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-win32.win32.x86.zip">Windows (x86) (39,8 MB)</a><br/>
-                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-win32.win32.x86_64.zip">Windows (x86_64) (39,8 MB)</a><br/>
-                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (39,4 MB)</a><br/>
-                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.cocoa.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.cocoa.x86.zip">Mac OSX (Mac/Cocoa x86) (39,4 MB)</a><br/>
-                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.cocoa.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa x86_64) (39,3 MB)</a><br/>
-                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.x86.zip">Linux (x86/GTK 2) (39,7 MB)</a><br/>
-                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (39,8 MB)</a><br/>
-                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (39,7 MB)</a><br/>
-                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (39,4 MB)</a><br/>
-                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (39,2 MB)</a><br/>
-                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20091116-aix.motif.ppc.zip">AIX (PPC/Motif) (39,3 MB)</a><br/>
+                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-win32.win32.x86.zip">Windows (x86) (39,3 MB)</a><br/>
+                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-win32.win32.x86_64.zip">Windows (x86_64) (39,3 MB)</a><br/>
+                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (38,9 MB)</a><br/>
+                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.cocoa.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.cocoa.x86.zip">Mac OSX (Mac/Cocoa x86) (39,0 MB)</a><br/>
+                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.cocoa.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa x86_64) (38,9 MB)</a><br/>
+                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.x86.zip">Linux (x86/GTK 2) (39,2 MB)</a><br/>
+                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (39,3 MB)</a><br/>
+                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (39,3 MB)</a><br/>
+                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (38,9 MB)</a><br/>
+                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (38,8 MB)</a><br/>
+                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mat/latest/rcp/MemoryAnalyzer-Incubation-0.8.0.20100120-aix.motif.ppc.zip">AIX (PPC/Motif) (38,9 MB)</a><br/>
                 </li>
             </ul>
 		</div> 
