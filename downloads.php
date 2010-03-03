@@ -63,7 +63,7 @@
 		</div> 
 		
 		<div class="homeitem3col">
-		<h3><a name="latest"></a>Latest Stable Development Build (Incubation) from Athena CBI</h3>
+		<h3><a name="athena"></a>Latest Stable Development Build (Incubation) from Athena CBI</h3>
             <ul>
                 <li>
                     <b>Version</b>: 0.8.0.201003030911 or later  |  <b>Date</b>: 3 March 2010 or later  |  <b>Type</b>: Athena CBI Nightly Build (for developers only)
