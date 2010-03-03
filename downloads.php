@@ -62,6 +62,7 @@
             </ul>
 		</div> 
 		
+		<div class="homeitem3col">
 		<h3><a name="latest"></a>Latest Stable Development Build (Incubation) from Athena CBI</h3>
             <ul>
                 <li>
