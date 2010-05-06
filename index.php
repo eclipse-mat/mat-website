@@ -43,11 +43,28 @@ include($App->getProjectCommon());
 		</table>
 
 		<div class = "homeitem3col">
+			<h3>Memory Analyzer Moves from Technology to Tools</h3>
+			<p>
+			Memory Analyzer had recently a successful graduation review and is now out of
+			the incubation phase. Together with graduation the project moves from the
+			Technology top-level project into the Tools top-level project. 
+			</p>
+			<p><b>IMPORTANT:</b> As part of the move the project is renamed from technology.mat
+			to tools.mat, the SVN repository was changed, etc... The team is currently 
+			taking care to update all possible web pages with the correct links and data.
+			Please have understanding that some of the web pages can temporarily contain
+			outdated data, or some of the links can be broken. If you notice a problem 
+			you may tell us about it using the forum. 
+			</p>
+
+		</div>
+
+		<div class = "homeitem3col">
 			<h3>Links</h3>
 			<ul>
 				<li><a href="/mat/downloads.php">Download</a> the latest version as RCP application.</li>
 				<li>Read our <a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a> for background information.</li>
-				<li>Post your questions to the <a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Forum</a>.</li>
+				<li>Post your questions to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=62&">Forum</a>.</li>
 			</ul>
 		</div>
 

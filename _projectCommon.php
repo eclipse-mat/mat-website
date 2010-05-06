@@ -20,7 +20,7 @@ EOBRANDING;
     require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
     
     $Nav->setLinkList(null);
-	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=technology.mat", "_self", 1);
+	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=tools.mat", "_self", 1);
 
 	$Nav->addNavSeparator("Memory Analyzer", "/mat/");
 	
@@ -28,7 +28,7 @@ EOBRANDING;
 	$Nav->addCustomNav("Getting Started", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
     $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
     $Nav->addCustomNav("FAQ (Wiki)", "http://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ", "_self", 2);
-    $Nav->addCustomNav("Forum", "http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer", "_self", 2);
+    $Nav->addCustomNav("Forum", "http://www.eclipse.org/forums/index.php?t=thread&frm_id=62", "_self", 2);
     $Nav->addCustomNav("Blog", "http://dev.eclipse.org/blogs/memoryanalyzer", "_self", 2);
     $Nav->addCustomNav("Report Bug", "https://bugs.eclipse.org/bugs/enter_bug.cgi?product=MAT", "_self", 2);
 	

@@ -11,15 +11,6 @@
 			</div>
 		</div>
 		
- 		<div class="sideitem">
-			<h6>Incubation</h6>
-			<div align="center" width="100%"><a href="/projects/what-is-incubation.php"><img
-			src="/images/egg-incubation.png" border="0" alt="Incubation" align="center"/></a></div>
-			<div align="center">This project is in the
-				<a href="/projects/dev_process/validation-phase.php">Incubation Phase</a>
-			</div>
-		</div>
-		
 		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div class="modal">
@@ -40,8 +31,7 @@
 			<div class="modal">
 			<ul>
 				<li>Got questions? Need advice? Miss a feature?
-				    <a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.memory-analyzer">Newsgroup</a>
-			        <a href="http://dev.eclipse.org/newslists/news.eclipse.technology.memory-analyzer/maillist.html">[archive]</a></li>
+				    <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=62&">Newsgroup</a>
 			</ul>
 			</div>
 		</div>
