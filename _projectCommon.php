@@ -39,6 +39,6 @@ EOBRANDING;
     $Nav->addNavSeparator("Contributors", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference");
     $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference", "_self", 2);
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
-    $Nav->addCustomNav("View SVN", "http://dev.eclipse.org/viewcvs/index.cgi/?root=Technology_MAT", "_self", 2);
+    $Nav->addCustomNav("View SVN", "http://dev.eclipse.org/viewcvs/index.cgi/?root=TOOLS_MAT", "_self", 2);
     $Nav->addCustomNav("Project Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=technology.mat", "_self", 2);
 ?>
