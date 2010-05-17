@@ -43,23 +43,6 @@ include($App->getProjectCommon());
 		</table>
 
 		<div class = "homeitem3col">
-			<h3>Memory Analyzer Moves from Technology to Tools</h3>
-			<p>
-			Memory Analyzer had recently a successful graduation review and is now out of
-			the incubation phase. Together with graduation the project moves from the
-			Technology top-level project into the Tools top-level project. 
-			</p>
-			<p><b>IMPORTANT:</b> As part of the move the project is renamed from technology.mat
-			to tools.mat, the SVN repository was changed, etc... The team is currently 
-			taking care to update all possible web pages with the correct links and data.
-			Please have understanding that some of the web pages can temporarily contain
-			outdated data, or some of the links can be broken. If you notice a problem 
-			you may tell us about it using the forum. 
-			</p>
-
-		</div>
-
-		<div class = "homeitem3col">
 			<h3>Links</h3>
 			<ul>
 				<li><a href="/mat/downloads.php">Download</a> the latest version as RCP application.</li>
@@ -71,9 +54,20 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li><a href="/mat/downloads.php#0_8_0">Memory Analyzer 0.8 part of Galileo release</a>
+				<li><a href="/mat/downloads.php#latest">Memory Analyzer Release Version 1.0</a>
  				<blockquote></blockquote>
- 				As part of the Galileo Simultaneous release, Memory Analyzer 0.8 includes various new features. (<a href="/mat/0.8/noteworthy.html">New and Noteworthy</a> | <a href="/mat/downloads.php#0_8_0">download</a>)
+ 				After a successful graduation review, the Memory Analyzer released a 1.0 version. This version is
+ 				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/downloads.php#latest">download</a>)
+				</li>				
+			</ul>
+			<ul class="midlist">
+				<li>Memory Analyzer Moved to Tools TLP
+ 				<blockquote></blockquote>
+ 				In April 2010 the Memory Analyzer project had a successful graduation review and is not any longer in the Incubation phase.
+ 				After graduation the project moved from the Technology top-level project into the Tools top-level project. The team tried
+ 				to update all possible links after the change. If you notice some obsolate or broken links ot other project information,
+ 				please inform us via our mailing list or the forum.
+ 				sh 
 				</li>				
 			</ul>
 			<ul class="midlist">
