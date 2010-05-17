@@ -67,7 +67,6 @@ include($App->getProjectCommon());
  				After graduation the project moved from the Technology top-level project into the Tools top-level project. The team tried
  				to update all possible links after the change. If you notice some obsolate or broken links ot other project information,
  				please inform us via our mailing list or the forum.
- 				sh 
 				</li>				
 			</ul>
 			<ul class="midlist">
