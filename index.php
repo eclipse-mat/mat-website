@@ -54,7 +54,7 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li><a href="/mat/downloads.php#latest">Memory Analyzer Release Version 1.0</a>
+				<li><a href="/mat/downloads.php#latest">Memory Analyzer Released Version 1.0</a>
  				<blockquote></blockquote>
  				After a successful graduation review, the Memory Analyzer released a 1.0 version. This version is
  				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/downloads.php#latest">download</a>)
