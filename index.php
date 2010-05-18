@@ -65,7 +65,7 @@ include($App->getProjectCommon());
  				<blockquote></blockquote>
  				In April 2010 the Memory Analyzer project had a successful graduation review and is not any longer in the Incubation phase.
  				After graduation the project moved from the Technology top-level project into the Tools top-level project. The team tried
- 				to update all possible links after the change. If you notice some obsolate or broken links ot other project information,
+ 				to update all possible links after the change. If you notice some obsolete or broken links or other outdated project information,
  				please inform us via our mailing list or the forum.
 				</li>				
 			</ul>
