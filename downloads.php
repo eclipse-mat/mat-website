@@ -29,7 +29,7 @@
                     (12,0 MB)
                 </li>
                 <li>
-                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/latest/MemoryAnalyzer-1.0.0.201005141207.zip">MemoryAnalyzer-1.0.0.201005141207.zip</a>
+                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/latest/MemoryAnalyzer-1.0.0.201005201128.zip">MemoryAnalyzer-1.0.0.201005201128.zip</a>
                     (11,8 MB)
                 </li>
                                    
