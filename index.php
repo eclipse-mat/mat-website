@@ -47,7 +47,7 @@ include($App->getProjectCommon());
 			<ul>
 				<li><a href="/mat/downloads.php">Download</a> the latest version as RCP application.</li>
 				<li>Read our <a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a> for background information.</li>
-				<li>Post your questions to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=62&">Forum</a>.</li>
+				<li>Post your questions to the <a href="http://www.eclipse.org/forums/eclipse.memory-analyzer">Forum</a>.</li>
 			</ul>
 		</div>
 
