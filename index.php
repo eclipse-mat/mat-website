@@ -62,7 +62,7 @@ include($App->getProjectCommon());
 				</li>				
 			</ul>
 			<ul class="midlist">
-				<li><a href="/mat/downloads.php#latest">Memory Analyzer Released Version 1.0.0</a>
+				<li><a href="/mat/previousReleases.php#1_0_0">Memory Analyzer Released Version 1.0.0</a>
  				<blockquote></blockquote>
  				After a successful graduation review, the Memory Analyzer released a 1.0 version. This version is
  				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/previousReleases.php#1_0_0">download</a>)
