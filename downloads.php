@@ -22,7 +22,7 @@
 			<h3><a name="1_0_1"></a>Memory Analyzer 1.0.1 Release</h3>
             <ul>
                 <li>
-                    <b>Version</b>: 1.0.1.20100809  |  <b>Date</b>: 20 May 2010  |  <b>Type</b>: Released
+                    <b>Version</b>: 1.0.1.20100809  |  <b>Date</b>: 09 August 2010  |  <b>Type</b>: Released
                 </li>
                 <li>
                     <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.0/update-site/">http://download.eclipse.org/mat/1.0/update-site/</a>

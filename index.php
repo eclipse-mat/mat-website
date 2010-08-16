@@ -54,10 +54,18 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li><a href="/mat/downloads.php#latest">Memory Analyzer Released Version 1.0</a>
+				<li><a href="/mat/downloads.php">Memory Analyzer Released Version 1.0.1</a>
+ 				<blockquote></blockquote>
+ 				Memory Analyzer 1.0.1 is a service release of the 1.0.0 version. For a list of bugs which have been fixed 
+ 				check the <a href="http://eclipse.org/mat/1.0.1/release_notes-1.0.1.txt">release notes</a>.
+ 				To download Memory Analyzer 1.0.1 visit the <a href="/mat/downloads.php">downloads page</a>.
+				</li>				
+			</ul>
+			<ul class="midlist">
+				<li><a href="/mat/downloads.php#latest">Memory Analyzer Released Version 1.0.0</a>
  				<blockquote></blockquote>
  				After a successful graduation review, the Memory Analyzer released a 1.0 version. This version is
- 				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/downloads.php#latest">download</a>)
+ 				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/previousReleases.php#1_0_0">download</a>)
 				</li>				
 			</ul>
 			<ul class="midlist">
