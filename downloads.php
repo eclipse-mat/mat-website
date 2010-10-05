@@ -67,10 +67,13 @@
 		</div> 
 
 		<div class="homeitem3col">
-			<h3><a name="previousReleases"></a>Previous Releases</h3>
+			<h3><a name="otherReleases"></a>Other Releases</h3>
             <ul>
                 <li>
                     <a href="previousReleases.php">Previous Releases</a>
+                </li>
+                <li>
+                    <a href="snapshotBuilds.php">Snapshot Builds</a>
                 </li>
             </ul>
 		</div>
