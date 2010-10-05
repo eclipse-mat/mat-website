@@ -14,7 +14,7 @@
 		<p>This page points to snapshots / preview versions of Memory Analyzer which haven't been released.</p>
 
 		<div class="homeitem3col">
-			<h3><a name="1_1_0"></a>Memory Analyzer 1.1 Snapshots Release</h3>
+			<h3><a name="1_1_0"></a>Memory Analyzer 1.1 Snapshots</h3>
             <ul>
                 <li>
                     <b>Version</b>: 1.0.100.20100929 |  <b>Date</b>: 29 September 2010  |  <b>Type</b>: Nightly Build
