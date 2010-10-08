@@ -12,6 +12,15 @@
 		</div>
 		
 		<div class="sideitem">
+			<h6>Upcoming Talks</h6>
+			<div class="modal">
+			<ul>
+				<li><a href="http://www.eclipsecon.org/summiteurope2010/sessions/?page=sessions&id=1764">Eclipse Summit Europe</a>Ludwigsburg, 4 November, '10</li>
+			</ul>
+			</div>
+		</div>
+		
+		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div class="modal">
 			<ul>
