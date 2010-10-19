@@ -18,17 +18,35 @@
             <ul>
                 <li>
                     <b>Version</b>: 1.0.100.20100929 |  <b>Date</b>: 29 September 2010  |  <b>Type</b>: Nightly Build
+                    <ul>
+                        <li>
+                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.1/snapshots/20100929/update-site/">http://download.eclipse.org/mat/1.1/snapshots/20100929/update-site/</a>
+                           (12,0 MB)
+                        </li>
+                        <li>
+                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20100929/org.eclipse.mat-1.0.100.20100929-site.zip">org.eclipse.mat-1.0.100.20100929-site.zip</a>
+                            (11,8 MB)
+                        </li>
+                    </ul>
                 </li>
-                <ul>
-	                <li>
-	                    <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.1/snapshots/20100929/update-site/">http://download.eclipse.org/mat/1.1/snapshots/20100929/update-site/</a>
-	                    (12,0 MB)
-	                </li>
-	                <li>
-	                    <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20100929/org.eclipse.mat-1.0.100.20100929-site.zip">org.eclipse.mat-1.0.100.20100929-site.zip</a>
-	                    (11,8 MB)
-	                </li>
-                </ul>
+                <li>
+                    <a name="athena"><b>Latest Stable Development Build from Athena CBI</b></a>
+                    <ul>
+                        <li>
+                            <b>Build results</b>: <a href="https://hudson.eclipse.org/hudson/view/Athena%20CBI%20%28SVN%29/job/cbi-mat-nightly/lastStableBuild/">https://hudson.eclipse.org/hudson/view/Athena%20CBI%20%28SVN%29/job/cbi-mat-nightly/lastStableBuild/</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a name="tycho"><b>Latest Stable Development Build from Tycho/Maven</b></a>
+                    <ul>
+                        <li>
+                            <b>Build results</b>: <a href="https://hudson.eclipse.org/hudson/view/Tycho%20+%20Maven/job/tycho-mat-nightly/ws/trunk/product/target/">https://hudson.eclipse.org/hudson/view/Tycho%20+%20Maven/job/tycho-mat-nightly/ws/trunk/product/target/</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+		</div>
             </ul>
 		</div> 
 	</div>
