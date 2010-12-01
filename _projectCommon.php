@@ -30,6 +30,7 @@ EOBRANDING;
     $Nav->addCustomNav("FAQ (Wiki)", "http://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ", "_self", 2);
     $Nav->addCustomNav("Forum", "http://www.eclipse.org/forums/eclipse.memory-analyzer", "_self", 2);
     $Nav->addCustomNav("Blog", "http://dev.eclipse.org/blogs/memoryanalyzer", "_self", 2);
+    $Nav->addCustomNav("Unresolved bugs and enhancements", "https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;bug_status=UNCONFIRMED;bug_status=NEW;bug_status=ASSIGNED;bug_status=REOPENED;product=MAT", 2);
     $Nav->addCustomNav("Report Bug", "https://bugs.eclipse.org/bugs/enter_bug.cgi?product=MAT", "_self", 2);
 	
     $Nav->addNavSeparator("Downloads", "/mat/downloads.php");
