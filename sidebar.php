@@ -12,18 +12,10 @@
 		</div>
 		
 		<div class="sideitem">
-			<h6>Upcoming Talks</h6>
-			<div class="modal">
-			<ul>
-				<li><a href="http://www.eclipsecon.org/summiteurope2010/sessions/?page=sessions&id=1764">Eclipse Summit Europe</a>Ludwigsburg, 4 November, '10</li>
-			</ul>
-			</div>
-		</div>
-		
-		<div class="sideitem">
 			<h6>Previous Talks</h6>
 			<div class="modal">
 			<ul>
+				<li><a href="http://www.eclipsecon.org/summiteurope2010/sessions/?page=sessions&id=1764">Eclipse Summit Europe</a> Ludwigsburg, 4 November, '10</li>
 				<li><a href="http://javasymposium.techtarget.com/html/tools_tech.html#AJohnsonMemory">TheServerSide Java Symposium - Europe</a>, Prague, October '09</li>
 				<li><a href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-4118&amp;yr=2009&amp;track=javase">JavaOne</a>, June '09</li>
 				<li><a href="http://www.java-forum-stuttgart.de">Java Forum Stuttgart</a>, July '08</li>
