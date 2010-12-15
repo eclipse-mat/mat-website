@@ -17,6 +17,19 @@
 			<h3><a name="1_1_0"></a>Memory Analyzer 1.1 Snapshots</h3>
             <ul>
                 <li>
+                    <b>Version</b>: 1.0.100.20101215 (Indigo M4) |  <b>Date</b>: 15 December 2010  |  <b>Type</b>: Milestone Build
+                    <ul>
+                        <li>
+                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.1/snapshots/20101215/update-site/">http://download.eclipse.org/mat/1.1/snapshots/20101215/update-site/</a>
+                           (12,0 MB)
+                        </li>
+                        <li>
+                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20101215/MemoryAnalyzer-1.0.100.201012150941.zip">MemoryAnalyzer-1.0.100.201012150941.zip</a>
+                            (11,8 MB)
+                        </li>
+                    </ul>
+                </li>
+                <li>
                     <b>Version</b>: 1.0.100.20100929 |  <b>Date</b>: 29 September 2010  |  <b>Type</b>: Nightly Build
                     <ul>
                         <li>
