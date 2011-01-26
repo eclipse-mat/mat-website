@@ -6,26 +6,21 @@
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Memory Analyzer has a rich set of features to analyze heap dumps
-			from various VM vendors. The main focus is now on
-			<strong>growing the community</strong> around the tool and maturing from incubation.</p>
-			
-			<p>During the incubation we managed to create some community around the tool,
-			to extend the list of involved committer companies (now SAP and IBM), to become
-			part of the Galileo simultaneous release, and to reach a download-rate of around 
-			1000 downloads weakly for the standalone RCP version of the Memory Analyzer. 
-			With these achievements behind, our next steps will be focused on the maturing 
-			of the project.
-			</p>
+			from various VM vendors. The available toolset is helpful
+			to find the root cause of many memory related problems, e.g. OutOfMemoryErrors.
+			The team is currently putting the main focus on <strong>growing the community</strong> 
+			around the tool and <strong>looking for new problem domains</strong> where the tool
+			could be helpful.</p>
 			
 			<p>This project plan describes the improvements we target
-			for our first mature release 1.0</p>
+			for version 1.1</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			The Memory Analyzer is delivered as
 			<ul>
-				<li>stand-along RCP version via Eclipse.Org download server.</li>
+				<li>stand-alone RCP version via eclipse.org download server.</li>
 				<li>feature to be installed into an Eclipse IDE installation using an update site.</li>
 			</ul>
 		</html:div>
@@ -33,17 +28,18 @@
 	<release_milestones>
 		<preamble>
 			<html:div xmlns="http://www.w3.org/1999/xhtml">
-				We plan to build and publish a stable version of the Memory Analyzer on a monthly basis.
+				For publishing of milestones we will try to follow the plan of the Indigo simultaneous 
+				release, potentially skipping some of the milestones.
 			</html:div>
 		</preamble>
-		<milestone date="4/1/2010" milestone="1.0">
-			<html:div>Tentative Release Date 1.0</html:div>
+		<milestone date="06/22/2011" milestone="1.0">
+			<html:div>Tentative Release Date 1.1</html:div>
 		</milestone>
 		<postamble />
 	</release_milestones>
 	<target_environments>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
-			The Memory Analyzer requires Java 5 and runs on Eclipse 3.3 (Europa) and greater.
+			The Memory Analyzer requires Java 5 and runs on Eclipse 3.4 and greater.
 			A stand-alone version is provided on the download server which is build currently 
 			with Eclipse 3.5.1. 
 		</html:div>
@@ -60,66 +56,25 @@
 		<theme name="New Features">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>These are some new features that we would like to finish for the 1.0 release</p>
+					<p>These are some new features that we would like to finish for the 1.1 release</p>
 					<ul>
 						<li>
-							<em>Interactively Acquire Heap Dumps (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=229449">229449</a>)</em><br />
-							This feature adds a wizard to acquire a heap dump from a virtual machine
-							running on the local computer. The goal is to ease interactive analysis of an application
-							and reduce the time for novices to get started.
+							<em>Create single-sourced version of Memory Analyzer(<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=262603">262603</a>)</em><br />
+							Benjamin Muskalla has contributed a set of changes which to enable
+							MAT run as a RAP application. The project team will try to integrate 
+							all the changes and will aim to provide MAT also as a archive which
+							can be deployed in a web server. It is unclear if the team will manage this 
+							for the 1.1 release.
 						</li>
 						<li>
-							<em>Expose Callstack Information for Threads (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=268458">268458</a>)</em><br />
-							Certain heap dump (from 1.6_14 and higher Sun JVM, IBM DTFJ formatted system dumps)
-							contain information about the callstacks of threads. Such information could be 
-							extremely helpful for the analysis of a series of problems, and therefore it 
-							will be exposed from the Memory Analyzer.
+							<em>Simplify analysis of dumps with JRuby structures inside(<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=318989">318989</a>)</em><br />
+							A set of MAT extensions aiming to make analysis of heap dumps from
+							processes running ruby code (with jruby) easier. The enhancements include
+							for example showing	the jruby call-stack for a thread instead the Java call-stack,
+							pointing to the script file being executed, etc...
 						</li>
-						<li>
-							<em>Report Possible Memory Leaks in WeakHashMaps (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=296826">296826</a>)</em><br />
-							A WeakHashMap is expected to get rid of its entries for which the key is only
-							weakly referenced. One common problem causing lots of memory leaks is to have
-							a (strong) reference chain from the value of the WeakHashMap$Entry to its key. 
-							Such a hinder the "weakness" of the map. MAT will provide means to automatically
-							detect this anti-pattern.
-						</li>
-						<li>
-							<em>Improved Comparison Functionality (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=298078">298078</a>)</em><br />
-							The current comparison features of MAT are very limited - only the class histograms
-							of two different heap dumps can be compared.<br />
-							It should be possible to compare in MAT two and more arbitrary result tables which 
-							have similar columns, for example two histograms, two retained sets, two results 
-							from the &quot;groub by value&quot;, etc… These result tables can be from one and the
-							same heap dump, or from two or more different heap dumps.
-							Having this functionality one can do things like:
-							<ul>
-								<li>Compare the retained heap of the session for userA and userB (both within the same heap dump) and see why one is bigger than the other</li>
-								<li>Analyze how the retained set of userA’s session is changing over time (comparing heap dumps from different tests)</li>  
-								<li>Compare several group_by_value results and find which Strings appear in one set and are missing in another one, how the number of occurrence changes, etc…</li>
-							</ul> 
-							It should be possible to (re)order the results in an arbitrary way.
-						</li>
-					</ul>
-				</html:div>
-			</description>
-		</theme>
-		<theme name="Bug Fixes">
-			<description>
-				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>These are some of the bugs we would like to fix for the 1.0 release</p>
-					<ul>
-						<li>No JvmInfo in Heap Dump details pane (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=272887">272887</a>)</li>
-						<li>Object reference graph incorrect (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=286421">286421</a>)</li>
-						<li>Wrong sizes reported for instances with a single byte field (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=231296">231296</a>)</li>
-						<li>Pie chart links sometimes wrong (<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=286410">286410</a>)</li>
 					</ul>
 				</html:div>
 			</description>
@@ -130,6 +85,11 @@
 					<p>The Memory Analyzer documentation is available as (a) help plug-in, (b) WIKI pages
 					and (c) blog postings for special topics.</p>
 					<ul>
+						<li><em>Provide a "developer guide" for extending Memory Analyzer in Wiki</em><br />
+							We are working on <a href="http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference#Writing_plugins_for_the_Memory_Analyzer">a set of pages</a>
+							describing what the different possibilities to extend MAT are,
+							and how such extensions could be written.
+						</li>
 						<li><em>Review the existing documentation</em><br />
 							Currently existing documentation should be reviewed and outdated parts have to 
 							be adjusted. 
@@ -138,7 +98,7 @@
 							<em>Document new features</em><br />
 							The newly developed features have to be properly documented.
 						</li>
-						<li><em>Publish the Help Plug-in contents on the Eclipse.Org Page.</em><br />
+						<li><em>Publish the Help Plug-in contents on the eclipse.org Page.</em><br />
 							Additionally delivering the help content via web pages will make them searchable
 							via search engines like Google. This should attract new users to the tool.
 						</li>
@@ -155,9 +115,8 @@
 					but also is utilized only sporadically during the development of big applications.
 					</p>
 					<ul>
-						<li>Participate in the Helios Simultaneous Release.</li>
+						<li>Participate in the Indigo Simultaneous Release.</li>
 						<li>Be responsive to questions posted to the newsgroup and Bugzilla reports.</li>
-						<li>Regularly blog about memory related topics.</li>
 					</ul>
 				</html:div>
 			</description>
