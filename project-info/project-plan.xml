@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Eclipse Memory Analyzer">
-	<release projectid="technology.mat" version="1.0" />
+	<release projectid="technology.mat" version="1.1.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Memory Analyzer has a rich set of features to analyze heap dumps
@@ -13,7 +13,7 @@
 			could be helpful.</p>
 			
 			<p>This project plan describes the improvements we target
-			for version 1.1</p>
+			for version 1.1.0</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -32,8 +32,8 @@
 				release, potentially skipping some of the milestones.
 			</html:div>
 		</preamble>
-		<milestone date="06/22/2011" milestone="1.0">
-			<html:div>Tentative Release Date 1.1</html:div>
+		<milestone date="06/22/2011" milestone="1.1.0">
+			<html:div>MAT 1.1.0 released and included in the Indigo simultaneous release</html:div>
 		</milestone>
 		<postamble />
 	</release_milestones>
@@ -56,7 +56,7 @@
 		<theme name="New Features">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>These are some new features that we would like to finish for the 1.1 release</p>
+					<p>These are some new features that we would like to finish for the 1.1.0 release</p>
 					<ul>
 						<li>
 							<em>Create single-sourced version of Memory Analyzer(<a
@@ -65,7 +65,7 @@
 							MAT run as a RAP application. The project team will try to integrate 
 							all the changes and will aim to provide MAT also as a archive which
 							can be deployed in a web server. It is unclear if the team will manage this 
-							for the 1.1 release.
+							for the 1.1.0 release.
 						</li>
 						<li>
 							<em>Simplify analysis of dumps with JRuby structures inside(<a
