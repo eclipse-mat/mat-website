@@ -54,27 +54,17 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li><a href="/mat/downloads.php">Memory Analyzer Released Version 1.0.1</a>
+				<li>22 June 2011, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.1.0</a>
  				<blockquote></blockquote>
- 				Memory Analyzer 1.0.1 is a service release of the 1.0.0 version. For a list of bugs which have been fixed 
- 				check the <a href="http://eclipse.org/mat/1.0.1/release_notes-1.0.1.txt">release notes</a>.
- 				To download Memory Analyzer 1.0.1 visit the <a href="/mat/downloads.php">downloads page</a>.
+ 				Memory Analyzer 1.1.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
+ 				part of the Indigo simultaneous release. Have a look at the <a href="/mat/1.1/noteworthy.html">New and Noteworthy</a> document.
 				</li>				
 			</ul>
 			<ul class="midlist">
-				<li><a href="/mat/previousReleases.php#1_0_0">Memory Analyzer Released Version 1.0.0</a>
- 				<blockquote></blockquote>
- 				After a successful graduation review, the Memory Analyzer released a 1.0 version. This version is
- 				going to be part of the Helios simultaneous release (<a href="/mat/1.0/noteworthy.html">New and Noteworthy</a> | <a href="/mat/previousReleases.php#1_0_0">download</a>)
-				</li>				
-			</ul>
-			<ul class="midlist">
-				<li>Memory Analyzer Moved to Tools TLP
+				<li>April 2010, Memory Analyzer Graduated and Moved to Tools
  				<blockquote></blockquote>
  				In April 2010 the Memory Analyzer project had a successful graduation review and is not any longer in the Incubation phase.
- 				After graduation the project moved from the Technology top-level project into the Tools top-level project. The team tried
- 				to update all possible links after the change. If you notice some obsolete or broken links or other outdated project information,
- 				please inform us via our mailing list or the forum.
+ 				After graduation the project moved from the Technology top-level project into the Tools top-level project. 
 				</li>				
 			</ul>
 			<ul class="midlist">
