@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------
+The following is a list of changes made for the Memory Analyzer 1.1.1 release
+-----------------------------------------------------------------------------
+
+354438 Request details are not extracted for sub-classes of the IRequestDetailsResolver annotated with @Subject
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=354438
+
+352557 NullPointerException in OQL query with invalid WHERE clause.
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=352557
+
+323903 Use correct display for OQL pane - ready for RAP, also wrap long OQL lines
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=323903
+
+332853 Fix find bugs warnings
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=332853
+
+272318 Allow numpad divide to fully collapse a selection of a tree and document keyboard shortcuts
+272318 Allow numpad multiply to expand all of a tree and document keyboard shortcuts
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=272318
+
+347817 Add ant build file for generating OQL parser using javacc
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=347817
+
+344952 Add HelpUrl links to some queries
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=344952
+
+347149 Add focus box for result tree viewer
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=347149
+
+343999 Translate column headings for ListResult and PropertyResult
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=343999
+
+348838 Use plugin rather than bundle localization to improve Indigo p2 descriptions for jruby resolver
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=348838
+
+357519 Make filter editor box appear on Linux
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=357519
+
+Various changes related to the Tycho based build and release process
