@@ -14,125 +14,46 @@
 		<p>This page points to snapshots / preview versions of Memory Analyzer which haven't been released.</p>
 
 		<div class="homeitem3col">
-			<h3><a name="1_1_1"></a>Memory Analyzer 1.1 Snapshots</h3>
+			<h3><a name="nightly"></a>Memory Analyzer Latest Stable Build</h3>
             <ul>
                <li>
-                    <b>Version</b>: 1.1.1.20110824 |  <b>Date</b>: 24 August 2011  |  <b>Type</b>: Milestone Build
+                    <b>Version</b>: Latest Development Build |  <b>Type</b>: Development/Nightly Build
                     <ul>
                         <li>
-                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/snapshots/20110824/update-site/">http://download.eclipse.org/mat/snapshots/20110824/update-site/</a>
-                        </li>
-                        <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat//snapshots/20110824/MemoryAnalyzer-1.1.1.201108240735.zip">MemoryAnalyzer-1.1.1.201108240735.zip</a>
-                            (11,8 MB)
+                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/snapshots/update-site/">http://download.eclipse.org/mat/snapshots/update-site/</a>
                         </li>
                         <li>
 		                    <b>Stand-alone Eclipse RCP</b><br/>
 		
-		                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-win32.win32.x86.zip">Windows (x86) (42,1 MB)</a><br/>
-		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-win32.win32.x86_64.zip">Windows (x86_64) (42,1 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (41,8 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.cocoa.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.cocoa.x86.zip">Mac OSX (Mac/Cocoa x86) (31,8 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.cocoa.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa x86_64) (41,9 MB)</a><br/>
-		                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.x86.zip">Linux (x86/GTK 2) (42,1 MB)</a><br/>
-		                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (42,2 MB)</a><br/>
-		                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (42,1 MB)</a><br/>
-		                    <a title="Linux (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.ppc64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2) (39,9 MB)</a><br/>
-		                    <a title="Solaris 8 (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-solaris.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-solaris.gtk.x86.zip">Solaris 8 (x86/GTK 2) (40,0 MB)</a><br/>
-		                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (41,7 MB)</a><br/>
-		                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (41,6 MB)</a><br/>
-		                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/20110824/rcp/MemoryAnalyzer-1.1.1.20110824-aix.motif.ppc.zip">AIX (PPC/Motif) (41,7 MB)</a><br/>
+		                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86.zip">Windows (x86) (42,1 MB)</a><br/>
+		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip">Windows (x86_64) (42,1 MB)</a><br/>
+		                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (41,8 MB)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86.zip">Mac OSX (Mac/Cocoa x86) (31,8 MB)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa x86_64) (41,9 MB)</a><br/>
+		                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86.zip">Linux (x86/GTK 2) (42,1 MB)</a><br/>
+		                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (42,2 MB)</a><br/>
+		                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (42,1 MB)</a><br/>
+		                    <a title="Linux (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2) (39,9 MB)</a><br/>
+		                    <a title="Solaris 8 (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-solaris.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-solaris.gtk.x86.zip">Solaris 8 (x86/GTK 2) (40,0 MB)</a><br/>
+		                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (41,7 MB)</a><br/>
+		                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (41,6 MB)</a><br/>
+		                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.motif.ppc.zip">AIX (PPC/Motif) (41,7 MB)</a><br/>
 		                </li>
-                        
                     </ul>
-                </li>            
-               <li>
-                    <b>Version</b>: 1.1.0.20110523 (Indigo RC2) |  <b>Date</b>: 23 May 2011  |  <b>Type</b>: Milestone Build
-                    <ul>
-                        <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/MemoryAnalyzer-1.1.0.201105231821.zip">MemoryAnalyzer-1.1.0.201105231821.zip</a>
-                            (11,8 MB)
-                        </li>
-                        <li>
-		                    <b>Stand-alone Eclipse RCP</b><br/>
-		
-		                    <a title="Windows RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-win32.win32.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-win32.win32.x86.zip">Windows (x86) (42,1 MB)</a><br/>
-		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-win32.win32.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-win32.win32.x86_64.zip">Windows (x86_64) (42,1 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Carbon) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.carbon.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.carbon.x86.zip">Mac OSX (Mac/Carbon) (41,8 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.cocoa.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.cocoa.x86.zip">Mac OSX (Mac/Cocoa x86) (31,8 MB)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.cocoa.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa x86_64) (41,9 MB)</a><br/>
-		                    <a title="Linux (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.x86.zip">Linux (x86/GTK 2) (42,1 MB)</a><br/>
-		                    <a title="Linux (x86_64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.x86_64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.x86_64.zip">Linux (x86_64/GTK 2) (42,2 MB)</a><br/>
-		                    <a title="Linux (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.ppc.zip">Linux (PPC/GTK 2) (42,1 MB)</a><br/>
-		                    <a title="Linux (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.ppc64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2) (39,9 MB)</a><br/>
-		                    <a title="Solaris 8 (x86/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-solaris.gtk.x86.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-solaris.gtk.x86.zip">Solaris 8 (x86/GTK 2) (40,0 MB)</a><br/>
-		                    <a title="Solaris 8 (SPARC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-solaris.gtk.sparc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-solaris.gtk.sparc.zip">Solaris 8 (SPARC/GTK 2) (41,7 MB)</a><br/>
-		                    <a title="HP-UX (IA64_32/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-hpux.motif.ia64_32.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (41,6 MB)</a><br/>
-		                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20110523/rcp/MemoryAnalyzer-1.1.0.20110523-aix.motif.ppc.zip">AIX (PPC/Motif) (41,7 MB)</a><br/>
-		                </li>
-                        
-                    </ul>
-                </li>
-                <li>
-                    <b>Version</b>: 1.0.100.20101215 (Indigo M4) |  <b>Date</b>: 15 December 2010  |  <b>Type</b>: Milestone Build
-                    <ul>
-                        <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20101215/MemoryAnalyzer-1.0.100.201012150941.zip">MemoryAnalyzer-1.0.100.201012150941.zip</a>
-                            (11,8 MB)
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <b>Version</b>: 1.0.100.20100929 |  <b>Date</b>: 29 September 2010  |  <b>Type</b>: Nightly Build
-                    <ul>
-                        <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1/snapshots/20100929/org.eclipse.mat-1.0.100.20100929-site.zip">org.eclipse.mat-1.0.100.20100929-site.zip</a>
-                            (11,8 MB)
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a name="athena"><b>Latest Stable Development Build from Athena CBI</b></a>
-                    <ul>
-                        <li>
-                            <b>Build results</b>: <a href="https://hudson.eclipse.org/hudson/view/Athena%20CBI%20%28SVN%29/job/cbi-mat-nightly/lastStableBuild/">https://hudson.eclipse.org/hudson/view/Athena%20CBI%20%28SVN%29/job/cbi-mat-nightly/lastStableBuild/</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a name="tycho"><b>Latest Stable Development Build from Tycho/Maven</b></a>
-                    <ul>
-                        <li>
-                            <b>Build results</b>: <a href="https://hudson.eclipse.org/hudson/view/Tycho%20+%20Maven/job/tycho-mat-nightly/ws/trunk/product/target/">https://hudson.eclipse.org/hudson/view/Tycho%20+%20Maven/job/tycho-mat-nightly/ws/trunk/product/target/</a>
-                        </li>
-                    </ul>
-                </li>
+                </li>  
             </ul>
 		</div>
 	</div>
