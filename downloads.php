@@ -28,7 +28,7 @@
                             <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.1/update-site/">http://download.eclipse.org/mat/1.1/update-site/</a>
                         </li>
                         <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat//snapshots/20110824/MemoryAnalyzer-1.1.1.201108240735.zip">MemoryAnalyzer-1.1.1.201108240735.zip</a>
+                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.1.1/MemoryAnalyzer-1.1.1.201108240735.zip">MemoryAnalyzer-1.1.1.201108240735.zip</a>
                             (11,8 MB)
                         </li>
                         <li>
