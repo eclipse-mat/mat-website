@@ -14,9 +14,11 @@
 		<p>The <strong>stand-alone</strong> Memory Analyzer is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
 		
-		To <p>install the Memory Analyzer <strong>into an Eclipse IDE</strong> use the Update Manager and the update site URL provided below.
+		<p>To install the Memory Analyzer <strong>into an Eclipse IDE</strong> use the Update Manager and the update site URL provided below.
 		The <em>Memory Analyzer (Chart)</em> feature is optional. The chart feature requires the
 		<a href="/birt">BIRT Chart Engine</a> (Version 2.2.3 or greater, available via Update Manager).</p>
+		
+		<p>The minimum Java version required to run Memory Analyzer is 1.5</p>
 
 		<div class="homeitem3col">
 			<h3><a name="1_1_1"></a>Memory Analyzer 1.1.1 Release</h3>
