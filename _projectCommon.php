@@ -26,7 +26,6 @@ EOBRANDING;
 	
     $Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 2);
 	$Nav->addCustomNav("Getting Started", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
-    $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
     $Nav->addCustomNav("FAQ (Wiki)", "http://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ", "_self", 2);
     $Nav->addCustomNav("Forum", "http://www.eclipse.org/forums/eclipse.memory-analyzer", "_self", 2);
     $Nav->addCustomNav("Blog", "http://dev.eclipse.org/blogs/memoryanalyzer", "_self", 2);
@@ -34,11 +33,11 @@ EOBRANDING;
     $Nav->addCustomNav("Report Bug", "https://bugs.eclipse.org/bugs/enter_bug.cgi?product=MAT", "_self", 2);
 	
     $Nav->addNavSeparator("Downloads", "/mat/downloads.php");
-    $Nav->addCustomNav("RCP Package", "/mat/downloads.php", "_self", 2);
-    $Nav->addCustomNav("Installation", "/mat/downloads.php", "_self", 2);
+    $Nav->addCustomNav("Releases", "/mat/downloads.php", "_self", 2);
+    $Nav->addCustomNav("Nightly Builds", "/mat/snapshotBuilds.php", "_self", 2);
     
     $Nav->addNavSeparator("Contributors", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference");
-    $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference", "_self", 2);
+    $Nav->addCustomNav("Contributor Reference", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference", "_self", 2);
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View SVN", "http://dev.eclipse.org/viewcvs/index.cgi/?root=TOOLS_MAT", "_self", 2);
     $Nav->addCustomNav("Project Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=tools.mat", "_self", 2);
