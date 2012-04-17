@@ -51,6 +51,11 @@
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-hpux.motif.ia64_32.zip">HP-UX (IA64_32/Motif) (41,6 MB)</a><br/>
 		                    <a title="AIX (PPC/Motif) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.motif.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.motif.ppc.zip">AIX (PPC/Motif) (41,7 MB)</a><br/>
+		                    <a title="AIX (PPC/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.gtk.ppc.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.gtk.ppc.zip">AIX (PPC/GTK 2) (41,7 MB)</a><br/>
+		                    <a title="AIX (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.gtk.ppc64.zip"><img border=0 src="/mat/home/icon-save.gif"></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-aix.gtk.ppc64.zip">AIX (PPC64/GTK 2) (41,7 MB)</a><br/>
+
 		                </li>
                     </ul>
                 </li>  
