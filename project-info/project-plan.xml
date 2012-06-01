@@ -13,7 +13,7 @@
 			could be helpful.</p>
 			
 			<p>This project plan describes the improvements we target
-			for version 1.1.0</p>
+			for version 1.2.0</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -28,12 +28,12 @@
 	<release_milestones>
 		<preamble>
 			<html:div xmlns="http://www.w3.org/1999/xhtml">
-				For publishing of milestones we will try to follow the plan of the Indigo simultaneous 
+				For publishing of milestones we will try to follow the plan of the Juno simultaneous 
 				release, potentially skipping some of the milestones.
 			</html:div>
 		</preamble>
-		<milestone date="06/22/2011" milestone="1.1.0">
-			<html:div>MAT 1.1.0 released and included in the Indigo simultaneous release</html:div>
+		<milestone date="06/27/2012" milestone="1.2.0">
+			<html:div>MAT 1.2.0 released and included in the Juno simultaneous release</html:div>
 		</milestone>
 		<postamble />
 	</release_milestones>
@@ -41,7 +41,7 @@
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			The Memory Analyzer requires Java 5 and runs on Eclipse 3.4 and greater.
 			A stand-alone version is provided on the download server which is build currently 
-			with Eclipse 3.5.1. 
+			with Eclipse 3.7. 
 		</html:div>
 		<internationalization>
 			<html:div>The Memory Analyzer is prepared to be translated. Translation relevant 
@@ -56,7 +56,7 @@
 		<theme name="New Features">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>These are some new features that we would like to finish for the 1.1.0 release</p>
+					<p>These are some new features that we would like to finish for the 1.2.0 release</p>
 					<ul>
 						<li>
 							<em>Create single-sourced version of Memory Analyzer(<a
@@ -65,15 +65,17 @@
 							MAT run as a RAP application. The project team will try to integrate 
 							all the changes and will aim to provide MAT also as a archive which
 							can be deployed in a web server. It is unclear if the team will manage this 
-							for the 1.1.0 release.
+							for the 1.2.0 release.
 						</li>
 						<li>
-							<em>Simplify analysis of dumps with JRuby structures inside(<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=318989">318989</a>)</em><br />
-							A set of MAT extensions aiming to make analysis of heap dumps from
-							processes running ruby code (with jruby) easier. The enhancements include
-							for example showing	the jruby call-stack for a thread instead the Java call-stack,
-							pointing to the script file being executed, etc...
+							<em>Add support for UseCompressedOops(<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=346317">346317</a>)</em><br />
+							On x64 platforms many of the JVMs offer the possibility to specify that
+							object pointers used by the VM for objects are not 64 bit. 
+							HPROF dumps do not contain information if the flag is set or not, therefore 
+							object sizes calculated by MAT are incorrect for such heap dumps.
+							We can attempt to find or guess this information on our own, using object addresses
+							calculation for example.
 						</li>
 					</ul>
 				</html:div>
@@ -100,7 +102,7 @@
 						</li>
 						<li><em>Publish the Help Plug-in contents on the eclipse.org Page.</em><br />
 							Additionally delivering the help content via web pages will make them searchable
-							via search engines like Google. This should attract new users to the tool.
+							via search engines. This should attract new users to the tool.
 						</li>
 					</ul>
 				</html:div>
@@ -115,7 +117,7 @@
 					but also is utilized only sporadically during the development of big applications.
 					</p>
 					<ul>
-						<li>Participate in the Indigo Simultaneous Release.</li>
+						<li>Participate in the Eclipse Simultaneous Release.</li>
 						<li>Be responsive to questions posted to the newsgroup and Bugzilla reports.</li>
 					</ul>
 				</html:div>
