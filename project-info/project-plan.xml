@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Eclipse Memory Analyzer">
-	<release projectid="technology.mat" version="1.1.0" />
+	<release projectid="technology.mat" version="1.2.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Memory Analyzer has a rich set of features to analyze heap dumps
@@ -33,7 +33,10 @@
 			</html:div>
 		</preamble>
 		<milestone date="06/27/2012" milestone="1.2.0">
-			<html:div>MAT 1.2.0 released and included in the Juno simultaneous release</html:div>
+			<html:div>MAT 1.2.0 should be released and included in the Juno simultaneous release</html:div>
+		</milestone>
+		<milestone date="09/28/2012" milestone="1.2.1">
+			<html:div>MAT 1.2.1 should be released and included in the Juno SR1</html:div>
 		</milestone>
 		<postamble />
 	</release_milestones>
@@ -59,13 +62,12 @@
 					<p>These are some new features that we would like to finish for the 1.2.0 release</p>
 					<ul>
 						<li>
-							<em>Create single-sourced version of Memory Analyzer(<a
-					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=262603">262603</a>)</em><br />
-							Benjamin Muskalla has contributed a set of changes which to enable
-							MAT run as a RAP application. The project team will try to integrate 
-							all the changes and will aim to provide MAT also as a archive which
-							can be deployed in a web server. It is unclear if the team will manage this 
-							for the 1.2.0 release.
+							<em>Ensure that Memory Analyzer works fine with Eclipse 4.2(<a
+					href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=364579">364579</a>)</em><br />
+							As the Juno simultaneous release is going to be based on Eclipse 4.2,
+							Memory Analyzer has to be working properly when installed as a feature in an Eclipse 4.2 IDE.<br />
+							Providing a standalone MAT version based on Eclipse 4.2 will be nice to have,
+							but it has lower priority. 
 						</li>
 						<li>
 							<em>Add support for UseCompressedOops(<a
