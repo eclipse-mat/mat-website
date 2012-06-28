@@ -54,27 +54,12 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li>22 June 2011, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.1.0</a>
+				<li>27 June 2012, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.2.0</a>
  				<blockquote></blockquote>
- 				Memory Analyzer 1.1.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
- 				part of the Indigo simultaneous release. Have a look at the <a href="/mat/1.1/noteworthy.html">New and Noteworthy</a> document.
+ 				Memory Analyzer 1.2.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
+ 				part of the Juno simultaneous release. Have a look at the <a href="/mat/1.2.0/noteworthy.html">New and Noteworthy</a> document.
 				</li>				
 			</ul>
-			<ul class="midlist">
-				<li>April 2010, Memory Analyzer Graduated and Moved to Tools
- 				<blockquote></blockquote>
- 				In April 2010 the Memory Analyzer project had a successful graduation review and is not any longer in the Incubation phase.
- 				After graduation the project moved from the Technology top-level project into the Tools top-level project. 
-				</li>				
-			</ul>
-			<ul class="midlist">
-				<li><a href="http://wiki.eclipse.org/index.php/MemoryAnalyzer#System_Dumps_and_Heap_Dumps_from_IBM_Virtual_Machines">Memory Analyzer now supports IBM System Dumps and Portable Heap Dumps</a>
- 				<blockquote></blockquote>
- 				Memory Analyzer 0.8 includes a Diagnostic Tool Framework for Java (DTFJ) adapter, which together with a DTFJ
- 				feature from IBM, enables the Memory Analyzer to read DTFJ formatted system dumps and Portable Heap Dumps.
- 				Supported are dumps from <strong>IBM JDK 1.4.2 SR12, 5.0 SR8a and 6.0 SR2</strong> and greater.
-				</li>				
-			</ul>		
 		</div>
 		
 		<div class="homeitem3col">
