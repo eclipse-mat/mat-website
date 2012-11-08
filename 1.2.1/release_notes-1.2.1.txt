@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------
+The following is a list of changes made for the Memory Analyzer 1.2.1 release
+-----------------------------------------------------------------------------
+
+391418: Icon Assist is not big enough to show full text
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=391418
+
+388763: Selecting totals row sometimes causes duplicate entries
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=388763
+
+344730: Fix HTML errors
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=344730
+
+388047: Acquire heap dump from Firefox with IBM VM fails
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=388047
+
+386477: Feature Request: new index to speed up OQL for address filter
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=386477
