@@ -58,21 +58,17 @@ include($App->getProjectCommon());
  				<blockquote></blockquote>
  				Memory Analyzer 1.2.1 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
  				a service release for Memory Analyzer 1.2.0 and contains several bugfixes. Have a look at the <a href="/mat/1.2.1/release_notes.txt">release notes</a> for more details.
-				</li>				
+				</li>
 			</ul>
-		</div>
-
-		<div class = "homeitem3col">
-			<h3>News</h3>
 			<ul class="midlist">
 				<li>27 June 2012, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.2.0</a>
  				<blockquote></blockquote>
  				Memory Analyzer 1.2.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
  				part of the Juno simultaneous release. Have a look at the <a href="/mat/1.2.0/noteworthy.html">New and Noteworthy</a> document.
-				</li>				
+				</li>
 			</ul>
 		</div>
-		
+
 		<div class="homeitem3col">
 			<h3>Webinars</h3>
 			<ul class="midlist">
