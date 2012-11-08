@@ -57,7 +57,7 @@ include($App->getProjectCommon());
 				<li>8 November 2012, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.2.1</a>
  				<blockquote></blockquote>
  				Memory Analyzer 1.2.1 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
- 				a service release for Memory Analyzer 1.2.0 and contains several bugfixes. Have a look at the <a href="/mat/1.2.1/release_notes.txt">release notes</a> for more details.
+ 				a service release for Memory Analyzer 1.2.0 and contains several bugfixes. Have a look at the <a href="/mat/1.2.1/release_notes-1.2.1.txt">release notes</a> for more details.
 				</li>
 			</ul>
 			<ul class="midlist">
