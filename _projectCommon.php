@@ -25,7 +25,8 @@ EOBRANDING;
 	$Nav->addNavSeparator("Memory Analyzer", "/mat/");
 	
     $Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 2);
-	$Nav->addCustomNav("Getting Started", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
+    $Nav->addCustomNav("Getting Started", "http://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
+    $Nav->addCustomNav("Documentation from Juno release", "http://help.eclipse.org/juno/topic/org.eclipse.mat.ui.help/welcome.html", "_self", 2);
     $Nav->addCustomNav("FAQ (Wiki)", "http://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ", "_self", 2);
     $Nav->addCustomNav("Forum", "http://www.eclipse.org/forums/eclipse.memory-analyzer", "_self", 2);
     $Nav->addCustomNav("Blog", "http://dev.eclipse.org/blogs/memoryanalyzer", "_self", 2);
