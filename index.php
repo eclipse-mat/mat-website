@@ -37,7 +37,7 @@ include($App->getProjectCommon());
 		of objects, quickly calculate the retained sizes of objects, see who is preventing the Garbage
 		Collector from collecting objects, run a report to automatically extract leak suspects.</p>
 		</td>
-		<td align="right" valign="top"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot" width="250" height="282">
+		<td align="right" valign="top"><img src="/mat/home/mat_thumb.png" alt="Memory Analyzer Screenshot" width="250" height="282" />
 		</td>
 		</tr>
 		</table>
