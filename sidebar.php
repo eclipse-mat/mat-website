@@ -15,7 +15,7 @@
 			<h6>Previous Talks</h6>
 			<div class="modal">
 			<ul>
-				<li><a href="http://www.slideshare.net/AJohnson1/extending-eclipse-memory-analyzer>Eclipse Summit Europe</a> Ludwigsburg, 4 November, '10</li>
+				<li><a href="http://www.slideshare.net/AJohnson1/extending-eclipse-memory-analyzer">Eclipse Summit Europe</a> Ludwigsburg, 4 November, '10</li>
 				<li><a href="http://javasymposium.techtarget.com/html/tools_tech.html#AJohnsonMemory">TheServerSide Java Symposium - Europe</a>, Prague, October '09</li>
 				<li><a href="http://www.oracle.com/technetwork/java/j1sessn-jsp-156291.html">JavaOne</a>, San Francisco, June '09</li>
 				<li><a href="http://www.slideshare.net/guest62fd60c/eclipse-memory-analyzer-presentation">Eclipse Summit Europe</a> Ludwigsburg, 20 November, '08</li>
