@@ -54,6 +54,13 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
+				<li>26 June 2013, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.3.0</a>
+ 				<blockquote></blockquote>
+ 				Memory Analyzer 1.3.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
+  				part of the Kepler simultaneous release. Have a look at the <a href="/mat/1.3.0/noteworthy.html">New and Noteworthy</a> document.
+				</li>
+			</ul>
+			<ul class="midlist">
 				<li>8 November 2012, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.2.1</a>
  				<blockquote></blockquote>
  				Memory Analyzer 1.2.1 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
