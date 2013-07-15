@@ -41,5 +41,5 @@ EOBRANDING;
     $Nav->addCustomNav("Contributor Reference", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference", "_self", 2);
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View SVN", "http://dev.eclipse.org/viewsvn/viewvc.cgi/?root=TOOLS_MAT", "_self", 2);
-    $Nav->addCustomNav("Project Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=tools.mat", "_self", 2);
+    $Nav->addCustomNav("Project Plan", "https://projects.eclipse.org/projects/tools.mat/releases/1.3.0", "_self", 2);
 ?>
