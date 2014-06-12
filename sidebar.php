@@ -31,13 +31,11 @@
 		
 		<div class="sideitem">
 			<h6>Newsgroup</h6>
-			<div class="modal">
 			<ul>
 				<li>Got questions? Need advice? Miss a feature?
-				    <a href="http://www.eclipse.org/forums/eclipse.memory-analyzer">Newsgroup</a>
+					<a href="http://www.eclipse.org/forums/eclipse.memory-analyzer">Newsgroup</a>
 				</li>
 			</ul>
-			</div>
 		</div>
 
 EOHTML
