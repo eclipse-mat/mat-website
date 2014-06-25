@@ -54,17 +54,10 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li>22 January 2014, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.3.1</a>
+				<li>25 June 2014, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.4.0</a>
  				<blockquote></blockquote>
- 				Memory Analyzer 1.3.1 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
- 				a service release for Memory Analyzer 1.3.0 and contains several bugfixes. Have a look at the <a href="/mat/1.3.1/release_notes-1.3.1.txt">release notes</a> for more details.
-				</li>
-			</ul>
-			<ul class="midlist">
-				<li>26 June 2013, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.3.0</a>
- 				<blockquote></blockquote>
- 				Memory Analyzer 1.3.0 Release is now available for <a href="/mat/previousReleases.php">download</a>. This version is
-  				part of the Kepler simultaneous release. Have a look at the <a href="/mat/1.3.0/noteworthy.html">New and Noteworthy</a> document.
+ 				Memory Analyzer 1.4.0 Release is now available for <a href="/mat/previousReleases.php">download</a>. This version is
+  				part of the Luna simultaneous release. Have a look at the <a href="/mat/1.4.0/noteworthy.html">New and Noteworthy</a> document.
 				</li>
 			</ul>
 		</div>
