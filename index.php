@@ -56,7 +56,7 @@ include($App->getProjectCommon());
 			<ul class="midlist">
 				<li>25 June 2014, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.4.0</a>
  				<blockquote></blockquote>
- 				Memory Analyzer 1.4.0 Release is now available for <a href="/mat/previousReleases.php">download</a>. This version is
+ 				Memory Analyzer 1.4.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
   				part of the Luna simultaneous release. Have a look at the <a href="/mat/1.4.0/noteworthy.html">New and Noteworthy</a> document.
 				</li>
 			</ul>
