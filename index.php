@@ -46,7 +46,7 @@ include($App->getProjectCommon());
 			<h3>Links</h3>
 			<ul>
 				<li><a href="/mat/downloads.php">Download</a> the latest version as RCP application.</li>
-				<li>Read our <a href="http://dev.eclipse.org/blogs/memoryanalyzer">Blog</a> for background information.</li>
+				<li>Read our <a href="http://memoryanalyzer.blogspot.in">Blog</a> for background information.</li>
 				<li>Post your questions to the <a href="http://www.eclipse.org/forums/eclipse.memory-analyzer">Forum</a>.</li>
 			</ul>
 		</div>
@@ -54,10 +54,10 @@ include($App->getProjectCommon());
 		<div class = "homeitem3col">
 			<h3>News</h3>
 			<ul class="midlist">
-				<li>25 June 2014, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.4.0</a>
+				<li>24 June 2015, <a href="/mat/downloads.php">Memory Analyzer Released Version 1.5.0</a>
  				<blockquote></blockquote>
- 				Memory Analyzer 1.4.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
-  				part of the Luna simultaneous release. Have a look at the <a href="/mat/1.4.0/noteworthy.html">New and Noteworthy</a> document.
+ 				Memory Analyzer 1.5.0 Release is now available for <a href="/mat/downloads.php">download</a>. This version is
+  				part of the Mars simultaneous release. Have a look at the <a href="/mat/1.5.0/noteworthy.html">New and Noteworthy</a> document.
 				</li>
 			</ul>
 		</div>
