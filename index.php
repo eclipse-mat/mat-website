@@ -65,12 +65,12 @@ include($App->getProjectCommon());
 		<div class="homeitem3col">
 			<h3>Webinars</h3>
 			<ul class="midlist">
-				<li><a href="http://live.eclipse.org/node/939">Memory Analyzer 1.0 - Not Only New, but Noteworthy</a><blockquote>
+				<li><a href="http://adobedev.adobe.acrobat.com/p76554151/">Memory Analyzer 1.0 - Not Only New, but Noteworthy</a><blockquote>
 				</blockquote>Krum Tsvetkov and Andrew Johnson recorded this Webinar on 08 Sep 2010.
 				Listen in to see how to diagnose problems given a heap dump and using the new features in the tool together with the best from the &quot;old&quot; features.</li>
 			</ul>
 			<ul class="midlist">
-				<li><a href="http://live.eclipse.org/node/520">Memory Analyzer Webinar</a><blockquote>
+				<li><a href="http://adobedev.adobe.acrobat.com/p70099154/">Memory Analyzer Webinar</a><blockquote>
 				</blockquote>Krum Tsvetkov and Andreas Buchen recorded this Webinar on 29 May 2008.
 				Listen in to get an overview over the most important features.</li>
 			</ul>
