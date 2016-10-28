@@ -1,24 +1,20 @@
 <?php
-	if (isset ($_GET["skin"]) && preg_match("/^(Blue|EclipseStandard|Industrial|Lazarus|Miasma|Modern|OldStyle|Phoenix|PhoenixTest|PlainText|Nova)$/", $_GET["skin"], $regs))
-	{
-		$theme = $regs[1];
-	}
-	else
-	{
-		$theme = "Nova";
-	}
 
-	$branding = <<<EOBRANDING
-<div id="branding">
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memory Analyzer (MAT)</h1>
-</div>
-EOBRANDING;
-	$Menu->setProjectBranding($branding);
+	# Set the theme for your project's web pages.
+	# See the Committer Tools "How Do I" for list of themes
+	# https://dev.eclipse.org/committers/
+	# Optional: defaults to system theme
+	$theme = "solstice";
 	
-	include("sidebar.php");
+	#include("sidebar.php");
     
-    require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
-    
+	$Menu->setMenuItemList(array());
+	$Menu->addMenuItem("Home", "/mat", "_self");
+	$Menu->addMenuItem("Download", "/mat/downloads.php", "_self");
+	#$Menu->addMenuItem("Documentation", "/mat/documentation", "_self");
+	#$Menu->addMenuItem("Support", "/mat/support", "_self");
+	#$Menu->addMenuItem("Developers", "/mat/developers", "_self");
+	
     $Nav->setLinkList(null);
 	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=tools.mat", "_self", 1);
 
@@ -42,4 +38,6 @@ EOBRANDING;
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View Git", "https://git.eclipse.org/c/mat/org.eclipse.mat.git", "_self", 2);
     $Nav->addCustomNav("Project Plan", "https://projects.eclipse.org/projects/tools.mat/releases/1.3.0", "_self", 2);
+    
+    $App->Promotion = TRUE;
 ?>
