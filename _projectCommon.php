@@ -14,7 +14,7 @@
 	#$Menu->addMenuItem("Documentation", "/mat/documentation", "_self");
 	#$Menu->addMenuItem("Support", "/mat/support", "_self");
 	#$Menu->addMenuItem("Developers", "/mat/developers", "_self");
-	
+
     $Nav->setLinkList(null);
 	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=tools.mat", "_self", 1);
 
@@ -37,7 +37,7 @@
     $Nav->addCustomNav("Contributor Reference", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference", "_self", 2);
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View Git", "https://git.eclipse.org/c/mat/org.eclipse.mat.git", "_self", 2);
-    $Nav->addCustomNav("Project Plan", "https://projects.eclipse.org/projects/tools.mat/releases/1.3.0", "_self", 2);
-    
+    $Nav->addCustomNav("Project Plan", "https://projects.eclipse.org/projects/tools.mat/releases/", "_self", 2);
+
     $App->Promotion = TRUE;
 ?>
