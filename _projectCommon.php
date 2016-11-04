@@ -12,7 +12,7 @@
 	$Menu->addMenuItem("Home", "/mat", "_self");
 	$Menu->addMenuItem("Download", "/mat/downloads.php", "_self");
 	$Menu->addMenuItem("Documentation", "/mat/documentation", "_self");
-	#$Menu->addMenuItem("Support", "/mat/support", "_self");
+	$Menu->addMenuItem("Support", "/mat/support", "_self");
 	#$Menu->addMenuItem("Developers", "/mat/developers", "_self");
 
     $Nav->setLinkList(null);
