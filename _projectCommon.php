@@ -13,7 +13,7 @@
 	$Menu->addMenuItem("Download", "/mat/downloads.php", "_self");
 	$Menu->addMenuItem("Documentation", "/mat/documentation", "_self");
 	$Menu->addMenuItem("Support", "/mat/support", "_self");
-	#$Menu->addMenuItem("Developers", "/mat/developers", "_self");
+	$Menu->addMenuItem("Developers", "/mat/developers", "_self");
 
     $Nav->setLinkList(null);
 	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=tools.mat", "_self", 1);
