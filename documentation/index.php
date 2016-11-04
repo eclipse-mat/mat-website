@@ -9,7 +9,7 @@
 
 	include($App->getProjectCommon());
 	
-	$pageTitle 		= "Memory Analyzer - Documentation";
+	$pageTitle 		= "Documentation";
 
 	$html = file_get_contents('_index.html');
 
