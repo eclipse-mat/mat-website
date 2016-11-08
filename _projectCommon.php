@@ -30,7 +30,7 @@
     $Nav->addCustomNav("Releases", "/mat/downloads.php", "_self", 2);
     $Nav->addCustomNav("Nightly Builds", "/mat/snapshotBuilds.php", "_self", 2);
     
-    $Nav->addNavSeparator("Developers", "http://wiki.eclipse.org/index.php?title=MemoryAnalyzer/Contributor_Reference");
+    $Nav->addNavSeparator("Developers", "/mat/developers/");
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
     $Nav->addCustomNav("View Git", "https://git.eclipse.org/c/mat/org.eclipse.mat.git", "_self", 2);
 
