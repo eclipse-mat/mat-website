@@ -49,8 +49,8 @@
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc.zip">Linux (PPC/GTK 2)</a><br/>
 		                    <a title="Linux (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2)</a><br/>
-		                    <a title="Linux (PPC64le/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2)</a><br/>
+		                    <a title="Linux (PPC64le/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK 2)</a><br/>
 		                    <a title="Linux (s390/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.s390.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.s390.zip">Linux (s390/GTK 2)</a><br/>
 		                    <a title="Linux (s390x/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.7/rcp/MemoryAnalyzer-1.7.0.20170613-linux.gtk.s390x.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
