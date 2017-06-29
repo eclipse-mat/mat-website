@@ -24,7 +24,7 @@
 			<h3><a name="1_7_0"></a>Memory Analyzer 1.7.0 Release</h3>
 			<ul>
 			    <li>
-                    <b>Version</b>: 1.7.0.20170613 |  <b>Date</b>: 23 June 2017  |  <b>Type</b>: Released
+                    <b>Version</b>: 1.7.0.20170613 |  <b>Date</b>: 28 June 2017  |  <b>Type</b>: Released
                     <ul>
                         <li>
                             <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.7/update-site/">http://download.eclipse.org/mat/1.7/update-site/</a>
