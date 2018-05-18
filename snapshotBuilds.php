@@ -38,7 +38,7 @@
 		                    <a title="Linux (PPC64/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
 		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64.zip">Linux (PPC64/GTK 2) (68.1 MB)</a><br/>
 		                    <a title="Linux (PPC64LE/GTK 2) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip">Linux (PPC64/GTK 2) (68.0 MB)</a><br/>
+		                    &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip">Linux (PPC64LE/GTK 2) (68.0 MB)</a><br/>
 		                </li>
                     </ul>
                 </li>  
