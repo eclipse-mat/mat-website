@@ -42,7 +42,7 @@
 		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-macosx.cocoa.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
 		                                               &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-macosx.cocoa.x86_64.zip">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
 		                    <a title="Linux (x86/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.x86.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.x86.zip">Linux (x86/GTK+) (52.3 MB)</a><br/>
+		                                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.x86.zip">Linux (x86/GTK+)</a><br/>
 		                    <a title="Linux (x86_64/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
 		                                        &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
 		                    <a title="Linux (PPC64/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.8/rcp/MemoryAnalyzer-1.8.0.20180604-linux.gtk.ppc64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
