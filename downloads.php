@@ -24,7 +24,7 @@
 			<h3><a name="1_8_1"></a>Memory Analyzer 1.8.1 Release</h3>
 			<ul>
 			    <li>
-                    <b>Version</b>: 1.8.1.20180910 |  <b>Date</b>: 21 September 2018  |  <b>Type</b>: Released
+                    <b>Version</b>: 1.8.1.20180910 |  <b>Date</b>: 19 September 2018  |  <b>Type</b>: Released
                     <ul>
                         <li>
                             <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.8.1/update-site/">http://download.eclipse.org/mat/1.8.1/update-site/</a>
