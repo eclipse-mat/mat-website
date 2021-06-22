@@ -14,35 +14,38 @@
 		<p>The <strong>stand-alone</strong> Memory Analyzer is based on Eclipse RCP. It is useful if you do not want to install
 		a full-fledged IDE on the system you are running the heap analysis.</p>
 
-		<p>To install the Memory Analyzer <strong>into an Eclipse IDE</strong> use the update site URL provided below.
-		The <em>Memory Analyzer (Chart)</em> feature is optional. The chart feature requires the
-		<a href="/birt">BIRT Chart Engine</a> (Version 2.3.0 or greater).</p>
+		<p>The minimum Java version required to run the stand-alone version of Memory Analyzer is Java 11.
+		See <a href="https://wiki.eclipse.org/Eclipse/Installation#JRE.2FJDK_Sources">JRE/JDK Sources</a>.
+		</p>
+		
+		<p>To use an older JDK it is still possible to install the Memory Analyzer plugins from the update site
+		 into an existing (older) Eclipse installation.</p>
 
-		<p>The minimum Java version required to run Memory Analyzer is 1.8.0</p>
+		<p>To install the Memory Analyzer <strong>into an Eclipse IDE</strong> use the update site URL provided below.
 		
 		<div class="homeitem3col">
-			<h3><a name="1_11_0"></a>Memory Analyzer 1.11.0 Release</h3>
+			<h3><a name="1_12_0"></a>Memory Analyzer 1.12.0 Release</h3>
 			<ul>
 			    <li>
-                    <b>Version</b>: 1.11.0.20201202 |  <b>Date</b>: 16 December 2020  |  <b>Type</b>: Released
+                    <b>Version</b>: 1.12.0.20210602 |  <b>Date</b>: 16 June 2021  |  <b>Type</b>: Released
                     <ul>
                         <li>
-                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.11.0/update-site/">http://download.eclipse.org/mat/1.11.0/update-site/</a>
+                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.12.0/update-site/">http://download.eclipse.org/mat/1.12.0/update-site/</a>
                         </li>
                         <li>
-                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/MemoryAnalyzer-1.11.0.202012021418.zip">MemoryAnalyzer-1.11.0.202012021418.zip</a>
+                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/MemoryAnalyzer-1.12.0.202106020830.zip">MemoryAnalyzer-1.12.0.202106020830.zip</a>
                         </li>
                         <li>
 		                    <b>Stand-alone Eclipse RCP Applications</b><br/>
 		                    
-		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-win32.win32.x86_64.zip">Windows (x86_64)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                               &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
-		                    <a title="Linux (x86_64/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                        &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
-		                    <a title="Linux (PPC64le/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                         &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK+)</a><br/>
+		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-win32.win32.x86_64.zip">Windows (x86_64)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                               &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
+		                    <a title="Linux (x86_64/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                        &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
+		                    <a title="Linux (PPC64le/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                         &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.12.0/rcp/MemoryAnalyzer-1.12.0.20210602-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK+)</a><br/>
 		                </li>
                     </ul>
                 </li>

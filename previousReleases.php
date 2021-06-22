@@ -19,6 +19,35 @@
 		<a href="/birt">BIRT Chart Engine</a> (Version 2.3.0 or greater).</p>
 
 		<div class="homeitem3col">
+			<h3><a name="1_11_0"></a>Memory Analyzer 1.11.0 Release</h3>
+			<ul>
+			    <li>
+                    <b>Version</b>: 1.11.0.20201202 |  <b>Date</b>: 16 December 2020  |  <b>Type</b>: Released
+                    <ul>
+                        <li>
+                            <b>Update Site</b>: <a href="http://download.eclipse.org/mat/1.11.0/update-site/">http://download.eclipse.org/mat/1.11.0/update-site/</a>
+                        </li>
+                        <li>
+                            <b>Archived Update Site</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/MemoryAnalyzer-1.11.0.202012021418.zip">MemoryAnalyzer-1.11.0.202012021418.zip</a>
+                        </li>
+                        <li>
+		                    <b>Stand-alone Eclipse RCP Applications</b><br/>
+		                    
+		                    <a title="Windows (x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                     &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-win32.win32.x86_64.zip">Windows (x86_64)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                               &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
+		                    <a title="Linux (x86_64/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                        &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
+		                    <a title="Linux (PPC64le/GTK+) RCP" href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                         &nbsp;&nbsp;<a href="http://www.eclipse.org/downloads/download.php?file=/mat/1.11.0/rcp/MemoryAnalyzer-1.11.0.20201202-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK+)</a><br/>
+		                </li>
+                    </ul>
+                </li>
+			</ul>
+		</div>
+
+		<div class="homeitem3col">
 			<h3><a name="1_10_0"></a>Memory Analyzer 1.10.0 Release</h3>
 			<ul>
 			    <li>
