@@ -26,17 +26,17 @@
 		                    <b>Stand-alone Eclipse RCP</b><br/>
 		
 		                    <a title="Windows (x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                     &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip">Windows (x86_64) (89.8 MB)</a><br/>
+		                                     &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip">Windows (x86_64) (95.5 MB)</a><br/>
 		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa x86_64) (86.5 MB)</a><br/>
+		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa x86_64) (94.7 MB)</a><br/>
 		                    <a title="Mac OSX (Mac/Cocoa/AArch64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.aarch64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.aarch64.dmg">Mac OSX (Mac/Cocoa AArch64) (86.5 MB)</a><br/>
+		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.aarch64.dmg">Mac OSX (Mac/Cocoa AArch64) (94.7 MB)</a><br/>
 		                    <a title="Linux (x86_64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip">Linux (x86_64/GTK+) (86.5 MB)</a><br/>
+		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip">Linux (x86_64/GTK+) (94.5 MB)</a><br/>
 		                    <a title="Linux (PPC64LE/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip">Linux (PPC64LE/GTK+) (86.4 MB)</a><br/>
+		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip">Linux (PPC64LE/GTK+) (94.5 MB)</a><br/>
 		                    <a title="Linux (AArch64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.aarch64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.aarch64.zip">Linux (AArch64/GTK+) (86.4 MB)</a><br/>
+		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.aarch64.zip">Linux (AArch64/GTK+) (94.5 MB)</a><br/>
 		                </li>
                     </ul>
                 </li>  
