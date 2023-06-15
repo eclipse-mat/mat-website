@@ -5,8 +5,8 @@
 			<h6>Contributors</h6>
 			<div class="modal">
 				<ul>
-					<li><a href="http://www.sap.com" target="_blank">SAP</a></li>
-					<li><a href="http://www.ibm.com" target="_blank">IBM</a></li>
+					<li><a href="https://www.sap.com" target="_blank">SAP</a></li>
+					<li><a href="https://www.ibm.com" target="_blank">IBM</a></li>
 				</ul>
 			</div>
 		</div>
@@ -33,7 +33,7 @@
 			<h6>Newsgroup</h6>
 			<ul>
 				<li>Got questions? Need advice? Miss a feature?
-					<a href="http://www.eclipse.org/forums/eclipse.memory-analyzer">Newsgroup</a>
+					<a href="https://www.eclipse.org/forums/eclipse.memory-analyzer">Newsgroup</a>
 				</li>
 			</ul>
 		</div>
