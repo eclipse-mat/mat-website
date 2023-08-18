@@ -19,7 +19,7 @@
 
 	$Nav->addNavSeparator("Memory Analyzer", "/mat/");
 
-	$Nav->addCustomNav("About This Project", "/projects/project_summary.php?projectid=tools.mat", "_self", 1);
+	$Nav->addCustomNav("About This Project", "https://projects.eclipse.org/projects/tools.mat", "_self", 1);
     $Nav->addCustomNav("Screenshots", "/mat/about/screenshots.php", "_self", 2);
     $Nav->addCustomNav("Getting Started", "https://wiki.eclipse.org/index.php/MemoryAnalyzer", "_self", 2);
     $Nav->addCustomNav("Documentation", "/mat/documentation/", "_self", 2);
