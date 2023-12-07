@@ -24,35 +24,35 @@
 		<p>To install the Memory Analyzer <strong>into an Eclipse IDE</strong> use the update site URL provided below.
 		
 		<div class="homeitem3col">
-			<h3><a id="1_14_0"></a>Memory Analyzer 1.14.0 Release</h3>
+			<h3><a id="1_15_0"></a>Memory Analyzer 1.15.0 Release</h3>
 			<ul>
 			    <li>
-                    <b>Version</b>: 1.14.0.20230315 |  <b>Date</b>: 15 March 2023  |  <b>Type</b>: Released
+                    <b>Version</b>: 1.15.0.20231206 |  <b>Date</b>: 6 December 2023 2023  |  <b>Type</b>: Released
                     <ul>
                         <li>
-                            <b>Update Site</b>: <a href="https://download.eclipse.org/mat/1.14.0/update-site/">https://download.eclipse.org/mat/1.14.0/update-site/</a>
+                            <b>Update Site</b>: <a href="https://download.eclipse.org/mat/1.15.0/update-site/">https://download.eclipse.org/mat/1.15.0/update-site/</a>
                         </li>
                         <li>
-                            <b>Archived Update Site</b>: <a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/MemoryAnalyzer-1.14.0.202303151743.zip">MemoryAnalyzer-1.14.0.202303151743.zip</a>
+                            <b>Archived Update Site</b>: <a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/MemoryAnalyzer-1.15.0.202312061754.zip">MemoryAnalyzer-1.15.0.202312061754.zip</a>
                         </li>
                         <li>
 		                    <b>Stand-alone Eclipse RCP Applications</b><br/>
 		                    
-		                    <a title="Windows (x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                     &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-win32.win32.x86_64.zip">Windows (x86_64)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
-		                    <a title="Mac OSX (Mac/Cocoa/AArch64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-macosx.cocoa.aarch64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-macosx.cocoa.aarch64.dmg">Mac OSX (Mac/Cocoa/AArch64)</a><br/>
-		                    <a title="Linux (x86_64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
-		                    <a title="Linux (AArch64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.aarch64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.aarch64.zip">Linux (AArch64/GTK+)</a><br/>
-		                    <a title="Linux (PPC64le/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
-		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK+)</a><br/>
+		                    <a title="Windows (x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-win32.win32.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                     &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-win32.win32.x86_64.zip">Windows (x86_64)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa/x86_64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.x86_64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.x86_64.dmg">Mac OSX (Mac/Cocoa/x86_64)</a><br/>
+		                    <a title="Mac OSX (Mac/Cocoa/AArch64) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.aarch64.dmg"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                               &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.aarch64.dmg">Mac OSX (Mac/Cocoa/AArch64)</a><br/>
+		                    <a title="Linux (x86_64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.x86_64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.x86_64.zip">Linux (x86_64/GTK+)</a><br/>
+		                    <a title="Linux (AArch64/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.aarch64.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                        &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.aarch64.zip">Linux (AArch64/GTK+)</a><br/>
+		                    <a title="Linux (PPC64le/GTK+) RCP" href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.ppc64le.zip"><img src="/mat/home/icon-save.gif" alt=""/></a>
+		                                         &nbsp;&nbsp;<a href="https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.ppc64le.zip">Linux (PPC64le/GTK+)</a><br/>
 		                </li>
 		                <li>
-		                    <b>New and Noteworthy</b>: <a href="1.14.0/noteworthy.html">noteworthy.html</a>
+		                    <b>New and Noteworthy</b>: <a href="1.15.0/noteworthy.html">noteworthy.html</a>
 		                </li>
                     </ul>
                 </li>
