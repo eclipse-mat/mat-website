@@ -76,6 +76,28 @@
 			highly recommend users of Eclipse Memory Analyzer version 1.9.1 or earlier to update to version 1.15.0 or subsequent versions.
 			<dl class="dl">
 				
+					<dt class="dt dlterm"><a class="xref" href="https://www.cve.org/CVERecord?id=CVE-2023-6194" target="_blank">CVE-2023-6194</a></dt>
+
+						<dd class="dd"><dl class="dl">
+							
+								<dt class="dt dlterm">PROBLEMTYPE CWE-611</dt>
+
+								<dd class="dd">The product processes an XML document that can contain XML entities with URIs that resolve to documents outside of the intended sphere of control, causing the product to embed incorrect documents into its output. (XXE)</dd>
+
+							
+							
+								<dt class="dt dlterm">DESCRIPTION</dt>
+
+								<dd class="dd">
+									In Eclipse Memory Analyzer versions 0.7 to 1.14.0, report definition XML files are not filtered to prohibit document type definition (DTD) references to external entities. This means that if a user chooses to use a malicious report definition XML file containing an external entity reference to generate a report then Eclipse Memory Analyzer may access external files or URLs defined via a DTD in the report definition.
+								</dd>
+
+							
+						</dl>
+</dd>
+
+				
+				
 					<dt class="dt dlterm"><a class="xref" href="https://www.cve.org/CVERecord?id=CVE-2019-17634" target="_blank">CVE-2019-17634</a></dt>
 
 						<dd class="dd"><dl class="dl">
