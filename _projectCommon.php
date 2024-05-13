@@ -32,7 +32,7 @@
     
     $Nav->addNavSeparator("Developers", "/mat/developers/");
     $Nav->addCustomNav("Mailing Lists", "https://dev.eclipse.org/mailman/listinfo/mat-dev", "_self", 2);
-    $Nav->addCustomNav("View Git", "https://git.eclipse.org/c/mat/org.eclipse.mat.git", "_self", 2);
+    $Nav->addCustomNav("View Git", "https://github.com/eclipse-mat/mat", "_self", 2);
 
     $App->Promotion = TRUE;
 ?>
